@@ -1,4 +1,4 @@
-Name,Vaccine Type,Details,Primary Developers,Country of Origin,Authorization/Approval
+Name,Vaccine Type,Primary Developers,Trial Phase,Institution
 ARCoV,mRNA-based vaccine,"Walvax Biotechnology Co., Ltd.; Abogen Biosciences Co. Ltd.; Yuxi Walvax Biotechnology Co., Ltd.",Phase 3,Xiangfen CDC,
 NVX-CoV2373,Nanoparticle vaccine,Novavax,Phase 3,Novavax,
 ZyCoV-D,DNA vaccine (plasmid),Zydus Cadila,Phase 3,Zydus Cadila,
