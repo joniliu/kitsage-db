@@ -1,1905 +1,1903 @@
-{
-    [
-        {
-            "country": "Afghanistan",
-            "countryCode": "93",
-            "isoCodes": "AF / AFG",
-            "population": "29,121,286",
-            "areaKM2": "647,500",
-            "gdpUSD": "20.65 Billion"
-        },
-        {
-            "country": "Albania",
-            "countryCode": "355",
-            "isoCodes": "AL / ALB",
-            "population": "2,986,952",
-            "areaKM2": "28,748",
-            "gdpUSD": "12.8 Billion"
-        },
-        {
-            "country": "Algeria",
-            "countryCode": "213",
-            "isoCodes": "DZ / DZA",
-            "population": "34,586,184",
-            "areaKM2": "2,381,740",
-            "gdpUSD": "215.7 Billion"
-        },
-        {
-            "country": "American Samoa",
-            "countryCode": "1-684",
-            "isoCodes": "AS / ASM",
-            "population": "57,881",
-            "areaKM2": "199",
-            "gdpUSD": "462.2 Million"
-        },
-        {
-            "country": "Andorra",
-            "countryCode": "376",
-            "isoCodes": "AD / AND",
-            "population": "84,000",
-            "areaKM2": "468",
-            "gdpUSD": "4.8 Billion"
-        },
-        {
-            "country": "Angola",
-            "countryCode": "244",
-            "isoCodes": "AO / AGO",
-            "population": "13,068,161",
-            "areaKM2": "1,246,700",
-            "gdpUSD": "124 Billion"
-        },
-        {
-            "country": "Anguilla",
-            "countryCode": "1-264",
-            "isoCodes": "AI / AIA",
-            "population": "13,254",
-            "areaKM2": "102",
-            "gdpUSD": "175.4 Million"
-        },
-        {
-            "country": "Antarctica",
-            "countryCode": "672",
-            "isoCodes": "AQ / ATA",
-            "population": "0",
-            "areaKM2": "14,000,000"
-        },
-        {
-            "country": "Antigua and Barbuda",
-            "countryCode": "1-268",
-            "isoCodes": "AG / ATG",
-            "population": "86,754",
-            "areaKM2": "443",
-            "gdpUSD": "1.22 Billion"
-        },
-        {
-            "country": "Argentina",
-            "countryCode": "54",
-            "isoCodes": "AR / ARG",
-            "population": "41,343,201",
-            "areaKM2": "2,766,890",
-            "gdpUSD": "484.6 Billion"
-        },
-        {
-            "country": "Armenia",
-            "countryCode": "374",
-            "isoCodes": "AM / ARM",
-            "population": "2,968,000",
-            "areaKM2": "29,800",
-            "gdpUSD": "10.44 Billion"
-        },
-        {
-            "country": "Aruba",
-            "countryCode": "297",
-            "isoCodes": "AW / ABW",
-            "population": "71,566",
-            "areaKM2": "193",
-            "gdpUSD": "2.516 Billion"
-        },
-        {
-            "country": "Australia",
-            "countryCode": "61",
-            "isoCodes": "AU / AUS",
-            "population": "21,515,754",
-            "areaKM2": "7,686,850",
-            "gdpUSD": "1.488 Trillion"
-        },
-        {
-            "country": "Austria",
-            "countryCode": "43",
-            "isoCodes": "AT / AUT",
-            "population": "8,205,000",
-            "areaKM2": "83,858",
-            "gdpUSD": "417.9 Billion"
-        },
-        {
-            "country": "Azerbaijan",
-            "countryCode": "994",
-            "isoCodes": "AZ / AZE",
-            "population": "8,303,512",
-            "areaKM2": "86,600",
-            "gdpUSD": "76.01 Billion"
-        },
-        {
-            "country": "Bahamas",
-            "countryCode": "1-242",
-            "isoCodes": "BS / BHS",
-            "population": "301,790",
-            "areaKM2": "13,940",
-            "gdpUSD": "8.373 Billion"
-        },
-        {
-            "country": "Bahrain",
-            "countryCode": "973",
-            "isoCodes": "BH / BHR",
-            "population": "738,004",
-            "areaKM2": "665",
-            "gdpUSD": "28.36 Billion"
-        },
-        {
-            "country": "Bangladesh",
-            "countryCode": "880",
-            "isoCodes": "BD / BGD",
-            "population": "156,118,464",
-            "areaKM2": "144,000",
-            "gdpUSD": "140.2 Billion"
-        },
-        {
-            "country": "Barbados",
-            "countryCode": "1-246",
-            "isoCodes": "BB / BRB",
-            "population": "285,653",
-            "areaKM2": "431",
-            "gdpUSD": "4.262 Billion"
-        },
-        {
-            "country": "Belarus",
-            "countryCode": "375",
-            "isoCodes": "BY / BLR",
-            "population": "9,685,000",
-            "areaKM2": "207,600",
-            "gdpUSD": "69.24 Billion"
-        },
-        {
-            "country": "Belgium",
-            "countryCode": "32",
-            "isoCodes": "BE / BEL",
-            "population": "10,403,000",
-            "areaKM2": "30,510",
-            "gdpUSD": "507.4 Billion"
-        },
-        {
-            "country": "Belize",
-            "countryCode": "501",
-            "isoCodes": "BZ / BLZ",
-            "population": "314,522",
-            "areaKM2": "22,966",
-            "gdpUSD": "1.637 Billion"
-        },
-        {
-            "country": "Benin",
-            "countryCode": "229",
-            "isoCodes": "BJ / BEN",
-            "population": "9,056,010",
-            "areaKM2": "112,620",
-            "gdpUSD": "8.359 Billion"
-        },
-        {
-            "country": "Bermuda",
-            "countryCode": "1-441",
-            "isoCodes": "BM / BMU",
-            "population": "65,365",
-            "areaKM2": "53",
-            "gdpUSD": "5.6 Billion"
-        },
-        {
-            "country": "Bhutan",
-            "countryCode": "975",
-            "isoCodes": "BT / BTN",
-            "population": "699,847",
-            "areaKM2": "47,000",
-            "gdpUSD": "2.133 Billion"
-        },
-        {
-            "country": "Bolivia",
-            "countryCode": "591",
-            "isoCodes": "BO / BOL",
-            "population": "9,947,418",
-            "areaKM2": "1,098,580",
-            "gdpUSD": "30.79 Billion"
-        },
-        {
-            "country": "Bosnia and Herzegovina",
-            "countryCode": "387",
-            "isoCodes": "BA / BIH",
-            "population": "4,590,000",
-            "areaKM2": "51,129",
-            "gdpUSD": "18.87 Billion"
-        },
-        {
-            "country": "Botswana",
-            "countryCode": "267",
-            "isoCodes": "BW / BWA",
-            "population": "2,029,307",
-            "areaKM2": "600,370",
-            "gdpUSD": "15.53 Billion"
-        },
-        {
-            "country": "Brazil",
-            "countryCode": "55",
-            "isoCodes": "BR / BRA",
-            "population": "201,103,330",
-            "areaKM2": "8,511,965",
-            "gdpUSD": "2.19 Trillion"
-        },
-        {
-            "country": "British Indian Ocean Territory",
-            "countryCode": "246",
-            "isoCodes": "IO / IOT",
-            "population": "4,000",
-            "areaKM2": "60"
-        },
-        {
-            "country": "British Virgin Islands",
-            "countryCode": "1-284",
-            "isoCodes": "VG / VGB",
-            "population": "21,730",
-            "areaKM2": "153",
-            "gdpUSD": "1.095 Billion"
-        },
-        {
-            "country": "Brunei",
-            "countryCode": "673",
-            "isoCodes": "BN / BRN",
-            "population": "395,027",
-            "areaKM2": "5,770",
-            "gdpUSD": "16.56 Billion"
-        },
-        {
-            "country": "Bulgaria",
-            "countryCode": "359",
-            "isoCodes": "BG / BGR",
-            "population": "7,148,785",
-            "areaKM2": "110,910",
-            "gdpUSD": "53.7 Billion"
-        },
-        {
-            "country": "Burkina Faso",
-            "countryCode": "226",
-            "isoCodes": "BF / BFA",
-            "population": "16,241,811",
-            "areaKM2": "274,200",
-            "gdpUSD": "12.13 Billion"
-        },
-        {
-            "country": "Myanmar",
-            "countryCode": "95",
-            "isoCodes": "MM / MMR",
-            "population": "53,414,374",
-            "areaKM2": "678,500",
-            "gdpUSD": "59.43 Billion"
-        },
-        {
-            "country": "Burundi",
-            "countryCode": "257",
-            "isoCodes": "BI / BDI",
-            "population": "9,863,117",
-            "areaKM2": "27,830",
-            "gdpUSD": "2.676 Billion"
-        },
-        {
-            "country": "Cambodia",
-            "countryCode": "855",
-            "isoCodes": "KH / KHM",
-            "population": "14,453,680",
-            "areaKM2": "181,040",
-            "gdpUSD": "15.64 Billion"
-        },
-        {
-            "country": "Cameroon",
-            "countryCode": "237",
-            "isoCodes": "CM / CMR",
-            "population": "19,294,149",
-            "areaKM2": "475,440",
-            "gdpUSD": "27.88 Billion"
-        },
-        {
-            "country": "Canada",
-            "countryCode": "1",
-            "isoCodes": "CA / CAN",
-            "population": "33,679,000",
-            "areaKM2": "9,984,670",
-            "gdpUSD": "1.825 Trillion"
-        },
-        {
-            "country": "Cape Verde",
-            "countryCode": "238",
-            "isoCodes": "CV / CPV",
-            "population": "508,659",
-            "areaKM2": "4,033",
-            "gdpUSD": "1.955 Billion"
-        },
-        {
-            "country": "Cayman Islands",
-            "countryCode": "1-345",
-            "isoCodes": "KY / CYM",
-            "population": "44,270",
-            "areaKM2": "262",
-            "gdpUSD": "2.25 Billion"
-        },
-        {
-            "country": "Central African Republic",
-            "countryCode": "236",
-            "isoCodes": "CF / CAF",
-            "population": "4,844,927",
-            "areaKM2": "622,984",
-            "gdpUSD": "2.05 Billion"
-        },
-        {
-            "country": "Chad",
-            "countryCode": "235",
-            "isoCodes": "TD / TCD",
-            "population": "10,543,464",
-            "areaKM2": "1,284,000",
-            "gdpUSD": "13.59 Billion"
-        },
-        {
-            "country": "Chile",
-            "countryCode": "56",
-            "isoCodes": "CL / CHL",
-            "population": "16,746,491",
-            "areaKM2": "756,950",
-            "gdpUSD": "281.7 Billion"
-        },
-        {
-            "country": "China",
-            "countryCode": "86",
-            "isoCodes": "CN / CHN",
-            "population": "1,330,044,000",
-            "areaKM2": "9,596,960",
-            "gdpUSD": "9.33 Trillion"
-        },
-        {
-            "country": "Christmas Island",
-            "countryCode": "61",
-            "isoCodes": "CX / CXR",
-            "population": "1,500",
-            "areaKM2": "135"
-        },
-        {
-            "country": "Cocos Islands",
-            "countryCode": "61",
-            "isoCodes": "CC / CCK",
-            "population": "628",
-            "areaKM2": "14"
-        },
-        {
-            "country": "Colombia",
-            "countryCode": "57",
-            "isoCodes": "CO / COL",
-            "population": "47,790,000",
-            "areaKM2": "1,138,910",
-            "gdpUSD": "369.2 Billion"
-        },
-        {
-            "country": "Comoros",
-            "countryCode": "269",
-            "isoCodes": "KM / COM",
-            "population": "773,407",
-            "areaKM2": "2,170",
-            "gdpUSD": "658 Million"
-        },
-        {
-            "country": "Republic of the Congo",
-            "countryCode": "242",
-            "isoCodes": "CG / COG",
-            "population": "3,039,126",
-            "areaKM2": "342,000",
-            "gdpUSD": "14.25 Billion"
-        },
-        {
-            "country": "Democratic Republic of the Congo",
-            "countryCode": "243",
-            "isoCodes": "CD / COD",
-            "population": "70,916,439",
-            "areaKM2": "2,345,410",
-            "gdpUSD": "18.56 Billion"
-        },
-        {
-            "country": "Cook Islands",
-            "countryCode": "682",
-            "isoCodes": "CK / COK",
-            "population": "21,388",
-            "areaKM2": "240",
-            "gdpUSD": "183.2 Million"
-        },
-        {
-            "country": "Costa Rica",
-            "countryCode": "506",
-            "isoCodes": "CR / CRI",
-            "population": "4,516,220",
-            "areaKM2": "51,100",
-            "gdpUSD": "48.51 Billion"
-        },
-        {
-            "country": "Croatia",
-            "countryCode": "385",
-            "isoCodes": "HR / HRV",
-            "population": "4,491,000",
-            "areaKM2": "56,542",
-            "gdpUSD": "59.14 Billion"
-        },
-        {
-            "country": "Cuba",
-            "countryCode": "53",
-            "isoCodes": "CU / CUB",
-            "population": "11,423,000",
-            "areaKM2": "110,860",
-            "gdpUSD": "72.3 Billion"
-        },
-        {
-            "country": "Curacao",
-            "countryCode": "599",
-            "isoCodes": "CW / CUW",
-            "population": "141,766",
-            "areaKM2": "444",
-            "gdpUSD": "5.6 Billion"
-        },
-        {
-            "country": "Cyprus",
-            "countryCode": "357",
-            "isoCodes": "CY / CYP",
-            "population": "1,102,677",
-            "areaKM2": "9,250",
-            "gdpUSD": "21.78 Billion"
-        },
-        {
-            "country": "Czech Republic",
-            "countryCode": "420",
-            "isoCodes": "CZ / CZE",
-            "population": "10,476,000",
-            "areaKM2": "78,866",
-            "gdpUSD": "194.8 Billion"
-        },
-        {
-            "country": "Denmark",
-            "countryCode": "45",
-            "isoCodes": "DK / DNK",
-            "population": "5,484,000",
-            "areaKM2": "43,094",
-            "gdpUSD": "324.3 Billion"
-        },
-        {
-            "country": "Djibouti",
-            "countryCode": "253",
-            "isoCodes": "DJ / DJI",
-            "population": "740,528",
-            "areaKM2": "23,000",
-            "gdpUSD": "1.459 Billion"
-        },
-        {
-            "country": "Dominica",
-            "countryCode": "1-767",
-            "isoCodes": "DM / DMA",
-            "population": "72,813",
-            "areaKM2": "754",
-            "gdpUSD": "495 Million"
-        },
-        {
-            "country": "Dominican Republic",
-            "countryCode": "1-809, 1-829, 1-849",
-            "isoCodes": "DO / DOM",
-            "population": "9,823,821",
-            "areaKM2": "48,730",
-            "gdpUSD": "59.27 Billion"
-        },
-        {
-            "country": "East Timor",
-            "countryCode": "670",
-            "isoCodes": "TL / TLS",
-            "population": "1,154,625",
-            "areaKM2": "15,007",
-            "gdpUSD": "6.129 Billion"
-        },
-        {
-            "country": "Ecuador",
-            "countryCode": "593",
-            "isoCodes": "EC / ECU",
-            "population": "14,790,608",
-            "areaKM2": "283,560",
-            "gdpUSD": "91.41 Billion"
-        },
-        {
-            "country": "Egypt",
-            "countryCode": "20",
-            "isoCodes": "EG / EGY",
-            "population": "80,471,869",
-            "areaKM2": "1,001,450",
-            "gdpUSD": "262 Billion"
-        },
-        {
-            "country": "El Salvador",
-            "countryCode": "503",
-            "isoCodes": "SV / SLV",
-            "population": "6,052,064",
-            "areaKM2": "21,040",
-            "gdpUSD": "24.67 Billion"
-        },
-        {
-            "country": "Equatorial Guinea",
-            "countryCode": "240",
-            "isoCodes": "GQ / GNQ",
-            "population": "1,014,999",
-            "areaKM2": "28,051",
-            "gdpUSD": "17.08 Billion"
-        },
-        {
-            "country": "Eritrea",
-            "countryCode": "291",
-            "isoCodes": "ER / ERI",
-            "population": "5,792,984",
-            "areaKM2": "121,320",
-            "gdpUSD": "3.438 Billion"
-        },
-        {
-            "country": "Estonia",
-            "countryCode": "372",
-            "isoCodes": "EE / EST",
-            "population": "1,291,170",
-            "areaKM2": "45,226",
-            "gdpUSD": "24.28 Billion"
-        },
-        {
-            "country": "Ethiopia",
-            "countryCode": "251",
-            "isoCodes": "ET / ETH",
-            "population": "88,013,491",
-            "areaKM2": "1,127,127",
-            "gdpUSD": "47.34 Billion"
-        },
-        {
-            "country": "Falkland Islands",
-            "countryCode": "500",
-            "isoCodes": "FK / FLK",
-            "population": "2,638",
-            "areaKM2": "12,173",
-            "gdpUSD": "164.5 Million"
-        },
-        {
-            "country": "Faroe Islands",
-            "countryCode": "298",
-            "isoCodes": "FO / FRO",
-            "population": "48,228",
-            "areaKM2": "1,399",
-            "gdpUSD": "2.32 Billion"
-        },
-        {
-            "country": "Fiji",
-            "countryCode": "679",
-            "isoCodes": "FJ / FJI",
-            "population": "875,983",
-            "areaKM2": "18,270",
-            "gdpUSD": "4.218 Billion"
-        },
-        {
-            "country": "Finland",
-            "countryCode": "358",
-            "isoCodes": "FI / FIN",
-            "population": "5,244,000",
-            "areaKM2": "337,030",
-            "gdpUSD": "259.6 Billion"
-        },
-        {
-            "country": "France",
-            "countryCode": "33",
-            "isoCodes": "FR / FRA",
-            "population": "64,768,389",
-            "areaKM2": "547,030",
-            "gdpUSD": "2.739 Trillion"
-        },
-        {
-            "country": "French Polynesia",
-            "countryCode": "689",
-            "isoCodes": "PF / PYF",
-            "population": "270,485",
-            "areaKM2": "4,167",
-            "gdpUSD": "5.65 Billion"
-        },
-        {
-            "country": "Gabon",
-            "countryCode": "241",
-            "isoCodes": "GA / GAB",
-            "population": "1,545,255",
-            "areaKM2": "267,667",
-            "gdpUSD": "19.97 Billion"
-        },
-        {
-            "country": "Gambia",
-            "countryCode": "220",
-            "isoCodes": "GM / GMB",
-            "population": "1,593,256",
-            "areaKM2": "11,300",
-            "gdpUSD": "896 Million"
-        },
-        {
-            "country": "Georgia",
-            "countryCode": "995",
-            "isoCodes": "GE / GEO",
-            "population": "4,630,000",
-            "areaKM2": "69,700",
-            "gdpUSD": "15.95 Billion"
-        },
-        {
-            "country": "Germany",
-            "countryCode": "49",
-            "isoCodes": "DE / DEU",
-            "population": "81,802,257",
-            "areaKM2": "357,021",
-            "gdpUSD": "3.593 Trillion"
-        },
-        {
-            "country": "Ghana",
-            "countryCode": "233",
-            "isoCodes": "GH / GHA",
-            "population": "24,339,838",
-            "areaKM2": "239,460",
-            "gdpUSD": "45.55 Billion"
-        },
-        {
-            "country": "Gibraltar",
-            "countryCode": "350",
-            "isoCodes": "GI / GIB",
-            "population": "27,884",
-            "areaKM2": "7",
-            "gdpUSD": "1.106 Billion"
-        },
-        {
-            "country": "Greece",
-            "countryCode": "30",
-            "isoCodes": "GR / GRC",
-            "population": "11,000,000",
-            "areaKM2": "131,940",
-            "gdpUSD": "243.3 Billion"
-        },
-        {
-            "country": "Greenland",
-            "countryCode": "299",
-            "isoCodes": "GL / GRL",
-            "population": "56,375",
-            "areaKM2": "2,166,086",
-            "gdpUSD": "2.16 Billion"
-        },
-        {
-            "country": "Grenada",
-            "countryCode": "1-473",
-            "isoCodes": "GD / GRD",
-            "population": "107,818",
-            "areaKM2": "344",
-            "gdpUSD": "811 Million"
-        },
-        {
-            "country": "Guam",
-            "countryCode": "1-671",
-            "isoCodes": "GU / GUM",
-            "population": "159,358",
-            "areaKM2": "549",
-            "gdpUSD": "4.6 Billion"
-        },
-        {
-            "country": "Guatemala",
-            "countryCode": "502",
-            "isoCodes": "GT / GTM",
-            "population": "13,550,440",
-            "areaKM2": "108,890",
-            "gdpUSD": "53.9 Billion"
-        },
-        {
-            "country": "Guernsey",
-            "countryCode": "44-1481",
-            "isoCodes": "GG / GGY",
-            "population": "65,228",
-            "areaKM2": "78",
-            "gdpUSD": "2.742 Billion"
-        },
-        {
-            "country": "Guinea",
-            "countryCode": "224",
-            "isoCodes": "GN / GIN",
-            "population": "10,324,025",
-            "areaKM2": "245,857",
-            "gdpUSD": "6.544 Billion"
-        },
-        {
-            "country": "Guinea-Bissau",
-            "countryCode": "245",
-            "isoCodes": "GW / GNB",
-            "population": "1,565,126",
-            "areaKM2": "36,120",
-            "gdpUSD": "880 Million"
-        },
-        {
-            "country": "Guyana",
-            "countryCode": "592",
-            "isoCodes": "GY / GUY",
-            "population": "748,486",
-            "areaKM2": "214,970",
-            "gdpUSD": "3.02 Billion"
-        },
-        {
-            "country": "Haiti",
-            "countryCode": "509",
-            "isoCodes": "HT / HTI",
-            "population": "9,648,924",
-            "areaKM2": "27,750",
-            "gdpUSD": "8.287 Billion"
-        },
-        {
-            "country": "Honduras",
-            "countryCode": "504",
-            "isoCodes": "HN / HND",
-            "population": "7,989,415",
-            "areaKM2": "112,090",
-            "gdpUSD": "18.88 Billion"
-        },
-        {
-            "country": "Hong Kong",
-            "countryCode": "852",
-            "isoCodes": "HK / HKG",
-            "population": "6,898,686",
-            "areaKM2": "1,092",
-            "gdpUSD": "272.1 Billion"
-        },
-        {
-            "country": "Hungary",
-            "countryCode": "36",
-            "isoCodes": "HU / HUN",
-            "population": "9,982,000",
-            "areaKM2": "93,030",
-            "gdpUSD": "130.6 Billion"
-        },
-        {
-            "country": "Iceland",
-            "countryCode": "354",
-            "isoCodes": "IS / ISL",
-            "population": "308,910",
-            "areaKM2": "103,000",
-            "gdpUSD": "14.59 Billion"
-        },
-        {
-            "country": "India",
-            "countryCode": "91",
-            "isoCodes": "IN / IND",
-            "population": "1,173,108,018",
-            "areaKM2": "3,287,590",
-            "gdpUSD": "1.67 Trillion"
-        },
-        {
-            "country": "Indonesia",
-            "countryCode": "62",
-            "isoCodes": "ID / IDN",
-            "population": "242,968,342",
-            "areaKM2": "1,919,440",
-            "gdpUSD": "867.5 Billion"
-        },
-        {
-            "country": "Iran",
-            "countryCode": "98",
-            "isoCodes": "IR / IRN",
-            "population": "76,923,300",
-            "areaKM2": "1,648,000",
-            "gdpUSD": "411.9 Billion"
-        },
-        {
-            "country": "Iraq",
-            "countryCode": "964",
-            "isoCodes": "IQ / IRQ",
-            "population": "29,671,605",
-            "areaKM2": "437,072",
-            "gdpUSD": "221.8 Billion"
-        },
-        {
-            "country": "Ireland",
-            "countryCode": "353",
-            "isoCodes": "IE / IRL",
-            "population": "4,622,917",
-            "areaKM2": "70,280",
-            "gdpUSD": "220.9 Billion"
-        },
-        {
-            "country": "Isle of Man",
-            "countryCode": "44-1624",
-            "isoCodes": "IM / IMN",
-            "population": "75,049",
-            "areaKM2": "572",
-            "gdpUSD": "4.076 Billion"
-        },
-        {
-            "country": "Israel",
-            "countryCode": "972",
-            "isoCodes": "IL / ISR",
-            "population": "7,353,985",
-            "areaKM2": "20,770",
-            "gdpUSD": "272.7 Billion"
-        },
-        {
-            "country": "Italy",
-            "countryCode": "39",
-            "isoCodes": "IT / ITA",
-            "population": "60,340,328",
-            "areaKM2": "301,230",
-            "gdpUSD": "2.068 Trillion"
-        },
-        {
-            "country": "Ivory Coast",
-            "countryCode": "225",
-            "isoCodes": "CI / CIV",
-            "population": "21,058,798",
-            "areaKM2": "322,460",
-            "gdpUSD": "28.28 Billion"
-        },
-        {
-            "country": "Jamaica",
-            "countryCode": "1-876",
-            "isoCodes": "JM / JAM",
-            "population": "2,847,232",
-            "areaKM2": "10,991",
-            "gdpUSD": "14.39 Billion"
-        },
-        {
-            "country": "Japan",
-            "countryCode": "81",
-            "isoCodes": "JP / JPN",
-            "population": "127,288,000",
-            "areaKM2": "377,835",
-            "gdpUSD": "5.007 Trillion"
-        },
-        {
-            "country": "Jersey",
-            "countryCode": "44-1534",
-            "isoCodes": "JE / JEY",
-            "population": "90,812",
-            "areaKM2": "116",
-            "gdpUSD": "5.1 Billion"
-        },
-        {
-            "country": "Jordan",
-            "countryCode": "962",
-            "isoCodes": "JO / JOR",
-            "population": "6,407,085",
-            "areaKM2": "92,300",
-            "gdpUSD": "34.08 Billion"
-        },
-        {
-            "country": "Kazakhstan",
-            "countryCode": "7",
-            "isoCodes": "KZ / KAZ",
-            "population": "15,340,000",
-            "areaKM2": "2,717,300",
-            "gdpUSD": "224.9 Billion"
-        },
-        {
-            "country": "Kenya",
-            "countryCode": "254",
-            "isoCodes": "KE / KEN",
-            "population": "40,046,566",
-            "areaKM2": "582,650",
-            "gdpUSD": "45.31 Billion"
-        },
-        {
-            "country": "Kiribati",
-            "countryCode": "686",
-            "isoCodes": "KI / KIR",
-            "population": "92,533",
-            "areaKM2": "811",
-            "gdpUSD": "173 Million"
-        },
-        {
-            "country": "Kosovo",
-            "countryCode": "383",
-            "isoCodes": "XK / XKX",
-            "population": "1,800,000",
-            "areaKM2": "10,887",
-            "gdpUSD": "7.15 Billion"
-        },
-        {
-            "country": "Kuwait",
-            "countryCode": "965",
-            "isoCodes": "KW / KWT",
-            "population": "2,789,132",
-            "areaKM2": "17,820",
-            "gdpUSD": "179.5 Billion"
-        },
-        {
-            "country": "Kyrgyzstan",
-            "countryCode": "996",
-            "isoCodes": "KG / KGZ",
-            "population": "5,508,626",
-            "areaKM2": "198,500",
-            "gdpUSD": "7.234 Billion"
-        },
-        {
-            "country": "Laos",
-            "countryCode": "856",
-            "isoCodes": "LA / LAO",
-            "population": "6,368,162",
-            "areaKM2": "236,800",
-            "gdpUSD": "10.1 Billion"
-        },
-        {
-            "country": "Latvia",
-            "countryCode": "371",
-            "isoCodes": "LV / LVA",
-            "population": "2,217,969",
-            "areaKM2": "64,589",
-            "gdpUSD": "30.38 Billion"
-        },
-        {
-            "country": "Lebanon",
-            "countryCode": "961",
-            "isoCodes": "LB / LBN",
-            "population": "4,125,247",
-            "areaKM2": "10,400",
-            "gdpUSD": "43.49 Billion"
-        },
-        {
-            "country": "Lesotho",
-            "countryCode": "266",
-            "isoCodes": "LS / LSO",
-            "population": "1,919,552",
-            "areaKM2": "30,355",
-            "gdpUSD": "2.457 Billion"
-        },
-        {
-            "country": "Liberia",
-            "countryCode": "231",
-            "isoCodes": "LR / LBR",
-            "population": "3,685,076",
-            "areaKM2": "111,370",
-            "gdpUSD": "1.977 Billion"
-        },
-        {
-            "country": "Libya",
-            "countryCode": "218",
-            "isoCodes": "LY / LBY",
-            "population": "6,461,454",
-            "areaKM2": "1,759,540",
-            "gdpUSD": "70.92 Billion"
-        },
-        {
-            "country": "Liechtenstein",
-            "countryCode": "423",
-            "isoCodes": "LI / LIE",
-            "population": "35,000",
-            "areaKM2": "160",
-            "gdpUSD": "5.113 Billion"
-        },
-        {
-            "country": "Lithuania",
-            "countryCode": "370",
-            "isoCodes": "LT / LTU",
-            "population": "2,944,459",
-            "areaKM2": "65,200",
-            "gdpUSD": "46.71 Billion"
-        },
-        {
-            "country": "Luxembourg",
-            "countryCode": "352",
-            "isoCodes": "LU / LUX",
-            "population": "497,538",
-            "areaKM2": "2,586",
-            "gdpUSD": "60.54 Billion"
-        },
-        {
-            "country": "Macau",
-            "countryCode": "853",
-            "isoCodes": "MO / MAC",
-            "population": "449,198",
-            "areaKM2": "254",
-            "gdpUSD": "51.68 Billion"
-        },
-        {
-            "country": "Macedonia",
-            "countryCode": "389",
-            "isoCodes": "MK / MKD",
-            "population": "2,062,294",
-            "areaKM2": "25,333",
-            "gdpUSD": "10.65 Billion"
-        },
-        {
-            "country": "Madagascar",
-            "countryCode": "261",
-            "isoCodes": "MG / MDG",
-            "population": "21,281,844",
-            "areaKM2": "587,040",
-            "gdpUSD": "10.53 Billion"
-        },
-        {
-            "country": "Malawi",
-            "countryCode": "265",
-            "isoCodes": "MW / MWI",
-            "population": "15,447,500",
-            "areaKM2": "118,480",
-            "gdpUSD": "3.683 Billion"
-        },
-        {
-            "country": "Malaysia",
-            "countryCode": "60",
-            "isoCodes": "MY / MYS",
-            "population": "28,274,729",
-            "areaKM2": "329,750",
-            "gdpUSD": "312.4 Billion"
-        },
-        {
-            "country": "Maldives",
-            "countryCode": "960",
-            "isoCodes": "MV / MDV",
-            "population": "395,650",
-            "areaKM2": "300",
-            "gdpUSD": "2.27 Billion"
-        },
-        {
-            "country": "Mali",
-            "countryCode": "223",
-            "isoCodes": "ML / MLI",
-            "population": "13,796,354",
-            "areaKM2": "1,240,000",
-            "gdpUSD": "11.37 Billion"
-        },
-        {
-            "country": "Malta",
-            "countryCode": "356",
-            "isoCodes": "MT / MLT",
-            "population": "403,000",
-            "areaKM2": "316",
-            "gdpUSD": "9.541 Billion"
-        },
-        {
-            "country": "Marshall Islands",
-            "countryCode": "692",
-            "isoCodes": "MH / MHL",
-            "population": "65,859",
-            "areaKM2": "181",
-            "gdpUSD": "193 Million"
-        },
-        {
-            "country": "Mauritania",
-            "countryCode": "222",
-            "isoCodes": "MR / MRT",
-            "population": "3,205,060",
-            "areaKM2": "1,030,700",
-            "gdpUSD": "4.183 Billion"
-        },
-        {
-            "country": "Mauritius",
-            "countryCode": "230",
-            "isoCodes": "MU / MUS",
-            "population": "1,294,104",
-            "areaKM2": "2,040",
-            "gdpUSD": "11.9 Billion"
-        },
-        {
-            "country": "Mayotte",
-            "countryCode": "262",
-            "isoCodes": "YT / MYT",
-            "population": "159,042",
-            "areaKM2": "374"
-        },
-        {
-            "country": "Mexico",
-            "countryCode": "52",
-            "isoCodes": "MX / MEX",
-            "population": "112,468,855",
-            "areaKM2": "1,972,550",
-            "gdpUSD": "1.327 Trillion"
-        },
-        {
-            "country": "Micronesia",
-            "countryCode": "691",
-            "isoCodes": "FM / FSM",
-            "population": "107,708",
-            "areaKM2": "702",
-            "gdpUSD": "339 Million"
-        },
-        {
-            "country": "Moldova",
-            "countryCode": "373",
-            "isoCodes": "MD / MDA",
-            "population": "4,324,000",
-            "areaKM2": "33,843",
-            "gdpUSD": "7.932 Billion"
-        },
-        {
-            "country": "Monaco",
-            "countryCode": "377",
-            "isoCodes": "MC / MCO",
-            "population": "32,965",
-            "areaKM2": "2",
-            "gdpUSD": "5.748 Billion"
-        },
-        {
-            "country": "Mongolia",
-            "countryCode": "976",
-            "isoCodes": "MN / MNG",
-            "population": "3,086,918",
-            "areaKM2": "1,565,000",
-            "gdpUSD": "11.14 Billion"
-        },
-        {
-            "country": "Montenegro",
-            "countryCode": "382",
-            "isoCodes": "ME / MNE",
-            "population": "666,730",
-            "areaKM2": "14,026",
-            "gdpUSD": "4.518 Billion"
-        },
-        {
-            "country": "Montserrat",
-            "countryCode": "1-664",
-            "isoCodes": "MS / MSR",
-            "population": "9,341",
-            "areaKM2": "102"
-        },
-        {
-            "country": "Morocco",
-            "countryCode": "212",
-            "isoCodes": "MA / MAR",
-            "population": "31,627,428",
-            "areaKM2": "446,550",
-            "gdpUSD": "104.8 Billion"
-        },
-        {
-            "country": "Mozambique",
-            "countryCode": "258",
-            "isoCodes": "MZ / MOZ",
-            "population": "22,061,451",
-            "areaKM2": "801,590",
-            "gdpUSD": "14.67 Billion"
-        },
-        {
-            "country": "Namibia",
-            "countryCode": "264",
-            "isoCodes": "NA / NAM",
-            "population": "2,128,471",
-            "areaKM2": "825,418",
-            "gdpUSD": "12.3 Billion"
-        },
-        {
-            "country": "Nauru",
-            "countryCode": "674",
-            "isoCodes": "NR / NRU",
-            "population": "10,065",
-            "areaKM2": "21"
-        },
-        {
-            "country": "Nepal",
-            "countryCode": "977",
-            "isoCodes": "NP / NPL",
-            "population": "28,951,852",
-            "areaKM2": "140,800",
-            "gdpUSD": "19.34 Billion"
-        },
-        {
-            "country": "Netherlands",
-            "countryCode": "31",
-            "isoCodes": "NL / NLD",
-            "population": "16,645,000",
-            "areaKM2": "41,526",
-            "gdpUSD": "722.3 Billion"
-        },
-        {
-            "country": "Netherlands Antilles",
-            "countryCode": "599",
-            "isoCodes": "AN / ANT",
-            "population": "136,197",
-            "areaKM2": "960"
-        },
-        {
-            "country": "New Caledonia",
-            "countryCode": "687",
-            "isoCodes": "NC / NCL",
-            "population": "216,494",
-            "areaKM2": "19,060",
-            "gdpUSD": "9.28 Billion"
-        },
-        {
-            "country": "New Zealand",
-            "countryCode": "64",
-            "isoCodes": "NZ / NZL",
-            "population": "4,252,277",
-            "areaKM2": "268,680",
-            "gdpUSD": "181.1 Billion"
-        },
-        {
-            "country": "Nicaragua",
-            "countryCode": "505",
-            "isoCodes": "NI / NIC",
-            "population": "5,995,928",
-            "areaKM2": "129,494",
-            "gdpUSD": "11.26 Billion"
-        },
-        {
-            "country": "Niger",
-            "countryCode": "227",
-            "isoCodes": "NE / NER",
-            "population": "15,878,271",
-            "areaKM2": "1,267,000",
-            "gdpUSD": "7.304 Billion"
-        },
-        {
-            "country": "Nigeria",
-            "countryCode": "234",
-            "isoCodes": "NG / NGA",
-            "population": "154,000,000",
-            "areaKM2": "923,768",
-            "gdpUSD": "502 Billion"
-        },
-        {
-            "country": "Niue",
-            "countryCode": "683",
-            "isoCodes": "NU / NIU",
-            "population": "2,166",
-            "areaKM2": "260",
-            "gdpUSD": "10.01 Million"
-        },
-        {
-            "country": "Northern Mariana Islands",
-            "countryCode": "1-670",
-            "isoCodes": "MP / MNP",
-            "population": "53,883",
-            "areaKM2": "477",
-            "gdpUSD": "733 Million"
-        },
-        {
-            "country": "North Korea",
-            "countryCode": "850",
-            "isoCodes": "KP / PRK",
-            "population": "22,912,177",
-            "areaKM2": "120,540",
-            "gdpUSD": "28 Billion"
-        },
-        {
-            "country": "Norway",
-            "countryCode": "47",
-            "isoCodes": "NO / NOR",
-            "population": "5,009,150",
-            "areaKM2": "324,220",
-            "gdpUSD": "515.8 Billion"
-        },
-        {
-            "country": "Oman",
-            "countryCode": "968",
-            "isoCodes": "OM / OMN",
-            "population": "2,967,717",
-            "areaKM2": "212,460",
-            "gdpUSD": "81.95 Billion"
-        },
-        {
-            "country": "Pakistan",
-            "countryCode": "92",
-            "isoCodes": "PK / PAK",
-            "population": "184,404,791",
-            "areaKM2": "803,940",
-            "gdpUSD": "236.5 Billion"
-        },
-        {
-            "country": "Palau",
-            "countryCode": "680",
-            "isoCodes": "PW / PLW",
-            "population": "19,907",
-            "areaKM2": "458",
-            "gdpUSD": "221 Million"
-        },
-        {
-            "country": "Palestine",
-            "countryCode": "970",
-            "isoCodes": "PS / PSE",
-            "population": "3,800,000",
-            "areaKM2": "5,970",
-            "gdpUSD": "6.641 Billion"
-        },
-        {
-            "country": "Panama",
-            "countryCode": "507",
-            "isoCodes": "PA / PAN",
-            "population": "3,410,676",
-            "areaKM2": "78,200",
-            "gdpUSD": "40.62 Billion"
-        },
-        {
-            "country": "Papua New Guinea",
-            "countryCode": "675",
-            "isoCodes": "PG / PNG",
-            "population": "6,064,515",
-            "areaKM2": "462,840",
-            "gdpUSD": "16.1 Billion"
-        },
-        {
-            "country": "Paraguay",
-            "countryCode": "595",
-            "isoCodes": "PY / PRY",
-            "population": "6,375,830",
-            "areaKM2": "406,750",
-            "gdpUSD": "30.56 Billion"
-        },
-        {
-            "country": "Peru",
-            "countryCode": "51",
-            "isoCodes": "PE / PER",
-            "population": "29,907,003",
-            "areaKM2": "1,285,220",
-            "gdpUSD": "210.3 Billion"
-        },
-        {
-            "country": "Philippines",
-            "countryCode": "63",
-            "isoCodes": "PH / PHL",
-            "population": "99,900,177",
-            "areaKM2": "300,000",
-            "gdpUSD": "272.2 Billion"
-        },
-        {
-            "country": "Pitcairn",
-            "countryCode": "64",
-            "isoCodes": "PN / PCN",
-            "population": "46",
-            "areaKM2": "47"
-        },
-        {
-            "country": "Poland",
-            "countryCode": "48",
-            "isoCodes": "PL / POL",
-            "population": "38,500,000",
-            "areaKM2": "312,685",
-            "gdpUSD": "513.9 Billion"
-        },
-        {
-            "country": "Portugal",
-            "countryCode": "351",
-            "isoCodes": "PT / PRT",
-            "population": "10,676,000",
-            "areaKM2": "92,391",
-            "gdpUSD": "219.3 Billion"
-        },
-        {
-            "country": "Puerto Rico",
-            "countryCode": "1-787, 1-939",
-            "isoCodes": "PR / PRI",
-            "population": "3,916,632",
-            "areaKM2": "9,104",
-            "gdpUSD": "93.52 Billion"
-        },
-        {
-            "country": "Qatar",
-            "countryCode": "974",
-            "isoCodes": "QA / QAT",
-            "population": "840,926",
-            "areaKM2": "11,437",
-            "gdpUSD": "213.1 Billion"
-        },
-        {
-            "country": "Reunion",
-            "countryCode": "262",
-            "isoCodes": "RE / REU",
-            "population": "776,948",
-            "areaKM2": "2,517"
-        },
-        {
-            "country": "Romania",
-            "countryCode": "40",
-            "isoCodes": "RO / ROU",
-            "population": "21,959,278",
-            "areaKM2": "237,500",
-            "gdpUSD": "188.9 Billion"
-        },
-        {
-            "country": "Russia",
-            "countryCode": "7",
-            "isoCodes": "RU / RUS",
-            "population": "140,702,000",
-            "areaKM2": "17,100,000",
-            "gdpUSD": "2.113 Trillion"
-        },
-        {
-            "country": "Rwanda",
-            "countryCode": "250",
-            "isoCodes": "RW / RWA",
-            "population": "11,055,976",
-            "areaKM2": "26,338",
-            "gdpUSD": "7.7 Billion"
-        },
-        {
-            "country": "Saint Barthelemy",
-            "countryCode": "590",
-            "isoCodes": "BL / BLM",
-            "population": "8,450",
-            "areaKM2": "21"
-        },
-        {
-            "country": "Samoa",
-            "countryCode": "685",
-            "isoCodes": "WS / WSM",
-            "population": "192,001",
-            "areaKM2": "2,944",
-            "gdpUSD": "705 Million"
-        },
-        {
-            "country": "San Marino",
-            "countryCode": "378",
-            "isoCodes": "SM / SMR",
-            "population": "31,477",
-            "areaKM2": "61",
-            "gdpUSD": "1.866 Billion"
-        },
-        {
-            "country": "Sao Tome and Principe",
-            "countryCode": "239",
-            "isoCodes": "ST / STP",
-            "population": "175,808",
-            "areaKM2": "1,001",
-            "gdpUSD": "311 Million"
-        },
-        {
-            "country": "Saudi Arabia",
-            "countryCode": "966",
-            "isoCodes": "SA / SAU",
-            "population": "25,731,776",
-            "areaKM2": "1,960,582",
-            "gdpUSD": "718.5 Billion"
-        },
-        {
-            "country": "Senegal",
-            "countryCode": "221",
-            "isoCodes": "SN / SEN",
-            "population": "12,323,252",
-            "areaKM2": "196,190",
-            "gdpUSD": "15.36 Billion"
-        },
-        {
-            "country": "Serbia",
-            "countryCode": "381",
-            "isoCodes": "RS / SRB",
-            "population": "7,344,847",
-            "areaKM2": "88,361",
-            "gdpUSD": "43.68 Billion"
-        },
-        {
-            "country": "Seychelles",
-            "countryCode": "248",
-            "isoCodes": "SC / SYC",
-            "population": "88,340",
-            "areaKM2": "455",
-            "gdpUSD": "1.271 Billion"
-        },
-        {
-            "country": "Sierra Leone",
-            "countryCode": "232",
-            "isoCodes": "SL / SLE",
-            "population": "5,245,695",
-            "areaKM2": "71,740",
-            "gdpUSD": "4.607 Billion"
-        },
-        {
-            "country": "Singapore",
-            "countryCode": "65",
-            "isoCodes": "SG / SGP",
-            "population": "4,701,069",
-            "areaKM2": "693",
-            "gdpUSD": "295.7 Billion"
-        },
-        {
-            "country": "Sint Maarten",
-            "countryCode": "1-721",
-            "isoCodes": "SX / SXM",
-            "population": "37,429",
-            "areaKM2": "34",
-            "gdpUSD": "794.7 Million"
-        },
-        {
-            "country": "Slovakia",
-            "countryCode": "421",
-            "isoCodes": "SK / SVK",
-            "population": "5,455,000",
-            "areaKM2": "48,845",
-            "gdpUSD": "96.96 Billion"
-        },
-        {
-            "country": "Slovenia",
-            "countryCode": "386",
-            "isoCodes": "SI / SVN",
-            "population": "2,007,000",
-            "areaKM2": "20,273",
-            "gdpUSD": "46.82 Billion"
-        },
-        {
-            "country": "Solomon Islands",
-            "countryCode": "677",
-            "isoCodes": "SB / SLB",
-            "population": "559,198",
-            "areaKM2": "28,450",
-            "gdpUSD": "1.099 Billion"
-        },
-        {
-            "country": "Somalia",
-            "countryCode": "252",
-            "isoCodes": "SO / SOM",
-            "population": "10,112,453",
-            "areaKM2": "637,657",
-            "gdpUSD": "2.372 Billion"
-        },
-        {
-            "country": "South Africa",
-            "countryCode": "27",
-            "isoCodes": "ZA / ZAF",
-            "population": "49,000,000",
-            "areaKM2": "1,219,912",
-            "gdpUSD": "353.9 Billion"
-        },
-        {
-            "country": "South Korea",
-            "countryCode": "82",
-            "isoCodes": "KR / KOR",
-            "population": "48,422,644",
-            "areaKM2": "98,480",
-            "gdpUSD": "1.198 Trillion"
-        },
-        {
-            "country": "South Sudan",
-            "countryCode": "211",
-            "isoCodes": "SS / SSD",
-            "population": "8,260,490",
-            "areaKM2": "644,329",
-            "gdpUSD": "11.77 Billion"
-        },
-        {
-            "country": "Spain",
-            "countryCode": "34",
-            "isoCodes": "ES / ESP",
-            "population": "46,505,963",
-            "areaKM2": "504,782",
-            "gdpUSD": "1.356 Trillion"
-        },
-        {
-            "country": "Sri Lanka",
-            "countryCode": "94",
-            "isoCodes": "LK / LKA",
-            "population": "21,513,990",
-            "areaKM2": "65,610",
-            "gdpUSD": "65.12 Billion"
-        },
-        {
-            "country": "Saint Helena",
-            "countryCode": "290",
-            "isoCodes": "SH / SHN",
-            "population": "7,460",
-            "areaKM2": "410"
-        },
-        {
-            "country": "Saint Kitts and Nevis",
-            "countryCode": "1-869",
-            "isoCodes": "KN / KNA",
-            "population": "51,134",
-            "areaKM2": "261",
-            "gdpUSD": "767 Million"
-        },
-        {
-            "country": "Saint Lucia",
-            "countryCode": "1-758",
-            "isoCodes": "LC / LCA",
-            "population": "160,922",
-            "areaKM2": "616",
-            "gdpUSD": "1.377 Billion"
-        },
-        {
-            "country": "Saint Martin",
-            "countryCode": "590",
-            "isoCodes": "MF / MAF",
-            "population": "35,925",
-            "areaKM2": "53",
-            "gdpUSD": "561.5 Million"
-        },
-        {
-            "country": "Saint Pierre and Miquelon",
-            "countryCode": "508",
-            "isoCodes": "PM / SPM",
-            "population": "7,012",
-            "areaKM2": "242",
-            "gdpUSD": "215.3 Million"
-        },
-        {
-            "country": "Saint Vincent and the Grenadines",
-            "countryCode": "1-784",
-            "isoCodes": "VC / VCT",
-            "population": "104,217",
-            "areaKM2": "389",
-            "gdpUSD": "742 Million"
-        },
-        {
-            "country": "Sudan",
-            "countryCode": "249",
-            "isoCodes": "SD / SDN",
-            "population": "35,000,000",
-            "areaKM2": "1,861,484",
-            "gdpUSD": "52.5 Billion"
-        },
-        {
-            "country": "Suriname",
-            "countryCode": "597",
-            "isoCodes": "SR / SUR",
-            "population": "492,829",
-            "areaKM2": "163,270",
-            "gdpUSD": "5.009 Billion"
-        },
-        {
-            "country": "Svalbard and Jan Mayen",
-            "countryCode": "47",
-            "isoCodes": "SJ / SJM",
-            "population": "2,550",
-            "areaKM2": "62,049"
-        },
-        {
-            "country": "Swaziland",
-            "countryCode": "268",
-            "isoCodes": "SZ / SWZ",
-            "population": "1,354,051",
-            "areaKM2": "17,363",
-            "gdpUSD": "3.807 Billion"
-        },
-        {
-            "country": "Sweden",
-            "countryCode": "46",
-            "isoCodes": "SE / SWE",
-            "population": "9,555,893",
-            "areaKM2": "449,964",
-            "gdpUSD": "552 Billion"
-        },
-        {
-            "country": "Switzerland",
-            "countryCode": "41",
-            "isoCodes": "CH / CHE",
-            "population": "7,581,000",
-            "areaKM2": "41,290",
-            "gdpUSD": "646.2 Billion"
-        },
-        {
-            "country": "Syria",
-            "countryCode": "963",
-            "isoCodes": "SY / SYR",
-            "population": "22,198,110",
-            "areaKM2": "185,180",
-            "gdpUSD": "64.7 Billion"
-        },
-        {
-            "country": "Taiwan",
-            "countryCode": "886",
-            "isoCodes": "TW / TWN",
-            "population": "22,894,384",
-            "areaKM2": "35,980",
-            "gdpUSD": "484.7 Billion"
-        },
-        {
-            "country": "Tajikistan",
-            "countryCode": "992",
-            "isoCodes": "TJ / TJK",
-            "population": "7,487,489",
-            "areaKM2": "143,100",
-            "gdpUSD": "8.513 Billion"
-        },
-        {
-            "country": "Tanzania",
-            "countryCode": "255",
-            "isoCodes": "TZ / TZA",
-            "population": "41,892,895",
-            "areaKM2": "945,087",
-            "gdpUSD": "31.94 Billion"
-        },
-        {
-            "country": "Thailand",
-            "countryCode": "66",
-            "isoCodes": "TH / THA",
-            "population": "67,089,500",
-            "areaKM2": "514,000",
-            "gdpUSD": "400.9 Billion"
-        },
-        {
-            "country": "Togo",
-            "countryCode": "228",
-            "isoCodes": "TG / TGO",
-            "population": "6,587,239",
-            "areaKM2": "56,785",
-            "gdpUSD": "4.299 Billion"
-        },
-        {
-            "country": "Tokelau",
-            "countryCode": "690",
-            "isoCodes": "TK / TKL",
-            "population": "1,466",
-            "areaKM2": "10"
-        },
-        {
-            "country": "Tonga",
-            "countryCode": "676",
-            "isoCodes": "TO / TON",
-            "population": "122,580",
-            "areaKM2": "748",
-            "gdpUSD": "477 Million"
-        },
-        {
-            "country": "Trinidad and Tobago",
-            "countryCode": "1-868",
-            "isoCodes": "TT / TTO",
-            "population": "1,228,691",
-            "areaKM2": "5,128",
-            "gdpUSD": "27.13 Billion"
-        },
-        {
-            "country": "Tunisia",
-            "countryCode": "216",
-            "isoCodes": "TN / TUN",
-            "population": "10,589,025",
-            "areaKM2": "163,610",
-            "gdpUSD": "48.38 Billion"
-        },
-        {
-            "country": "Turkey",
-            "countryCode": "90",
-            "isoCodes": "TR / TUR",
-            "population": "77,804,122",
-            "areaKM2": "780,580",
-            "gdpUSD": "821.8 Billion"
-        },
-        {
-            "country": "Turkmenistan",
-            "countryCode": "993",
-            "isoCodes": "TM / TKM",
-            "population": "4,940,916",
-            "areaKM2": "488,100",
-            "gdpUSD": "40.56 Billion"
-        },
-        {
-            "country": "Turks and Caicos Islands",
-            "countryCode": "1-649",
-            "isoCodes": "TC / TCA",
-            "population": "20,556",
-            "areaKM2": "430"
-        },
-        {
-            "country": "Tuvalu",
-            "countryCode": "688",
-            "isoCodes": "TV / TUV",
-            "population": "10,472",
-            "areaKM2": "26",
-            "gdpUSD": "38 Million"
-        },
-        {
-            "country": "United Arab Emirates",
-            "countryCode": "971",
-            "isoCodes": "AE / ARE",
-            "population": "4,975,593",
-            "areaKM2": "82,880",
-            "gdpUSD": "390 Billion"
-        },
-        {
-            "country": "Uganda",
-            "countryCode": "256",
-            "isoCodes": "UG / UGA",
-            "population": "33,398,682",
-            "areaKM2": "236,040",
-            "gdpUSD": "22.6 Billion"
-        },
-        {
-            "country": "United Kingdom",
-            "countryCode": "44",
-            "isoCodes": "GB / GBR",
-            "population": "62,348,447",
-            "areaKM2": "244,820",
-            "gdpUSD": "2.49 Trillion"
-        },
-        {
-            "country": "Ukraine",
-            "countryCode": "380",
-            "isoCodes": "UA / UKR",
-            "population": "45,415,596",
-            "areaKM2": "603,700",
-            "gdpUSD": "175.5 Billion"
-        },
-        {
-            "country": "Uruguay",
-            "countryCode": "598",
-            "isoCodes": "UY / URY",
-            "population": "3,477,000",
-            "areaKM2": "176,220",
-            "gdpUSD": "57.11 Billion"
-        },
-        {
-            "country": "United States",
-            "countryCode": "1",
-            "isoCodes": "US / USA",
-            "population": "310,232,863",
-            "areaKM2": "9,629,091",
-            "gdpUSD": "16.72 Trillion"
-        },
-        {
-            "country": "Uzbekistan",
-            "countryCode": "998",
-            "isoCodes": "UZ / UZB",
-            "population": "27,865,738",
-            "areaKM2": "447,400",
-            "gdpUSD": "55.18 Billion"
-        },
-        {
-            "country": "Vanuatu",
-            "countryCode": "678",
-            "isoCodes": "VU / VUT",
-            "population": "221,552",
-            "areaKM2": "12,200",
-            "gdpUSD": "828 Million"
-        },
-        {
-            "country": "Vatican",
-            "countryCode": "379",
-            "isoCodes": "VA / VAT",
-            "population": "921",
-            "areaKM2": "0"
-        },
-        {
-            "country": "Venezuela",
-            "countryCode": "58",
-            "isoCodes": "VE / VEN",
-            "population": "27,223,228",
-            "areaKM2": "912,050",
-            "gdpUSD": "367.5 Billion"
-        },
-        {
-            "country": "Vietnam",
-            "countryCode": "84",
-            "isoCodes": "VN / VNM",
-            "population": "89,571,130",
-            "areaKM2": "329,560",
-            "gdpUSD": "170 Billion"
-        },
-        {
-            "country": "U.S. Virgin Islands",
-            "countryCode": "1-340",
-            "isoCodes": "VI / VIR",
-            "population": "108,708",
-            "areaKM2": "352"
-        },
-        {
-            "country": "Wallis and Futuna",
-            "countryCode": "681",
-            "isoCodes": "WF / WLF",
-            "population": "16,025",
-            "areaKM2": "274"
-        },
-        {
-            "country": "Western Sahara",
-            "countryCode": "212",
-            "isoCodes": "EH / ESH",
-            "population": "273,008",
-            "areaKM2": "266,000"
-        },
-        {
-            "country": "Yemen",
-            "countryCode": "967",
-            "isoCodes": "YE / YEM",
-            "population": "23,495,361",
-            "areaKM2": "527,970",
-            "gdpUSD": "43.89 Billion"
-        },
-        {
-            "country": "Zambia",
-            "countryCode": "260",
-            "isoCodes": "ZM / ZMB",
-            "population": "13,460,305",
-            "areaKM2": "752,614",
-            "gdpUSD": "22.24 Billion"
-        },
-        {
-            "country": "Zimbabwe",
-            "countryCode": "263",
-            "isoCodes": "ZW / ZWE",
-            "population": "11,651,858",
-            "areaKM2": "390,580",
-            "gdpUSD": "10.48 Billion"
-        }
-    ]
-}
+[
+    {
+        "country": "Afghanistan",
+        "countryCode": "93",
+        "isoCodes": "AF / AFG",
+        "population": "29,121,286",
+        "areaKM2": "647,500",
+        "gdpUSD": "20.65 Billion"
+    },
+    {
+        "country": "Albania",
+        "countryCode": "355",
+        "isoCodes": "AL / ALB",
+        "population": "2,986,952",
+        "areaKM2": "28,748",
+        "gdpUSD": "12.8 Billion"
+    },
+    {
+        "country": "Algeria",
+        "countryCode": "213",
+        "isoCodes": "DZ / DZA",
+        "population": "34,586,184",
+        "areaKM2": "2,381,740",
+        "gdpUSD": "215.7 Billion"
+    },
+    {
+        "country": "American Samoa",
+        "countryCode": "1-684",
+        "isoCodes": "AS / ASM",
+        "population": "57,881",
+        "areaKM2": "199",
+        "gdpUSD": "462.2 Million"
+    },
+    {
+        "country": "Andorra",
+        "countryCode": "376",
+        "isoCodes": "AD / AND",
+        "population": "84,000",
+        "areaKM2": "468",
+        "gdpUSD": "4.8 Billion"
+    },
+    {
+        "country": "Angola",
+        "countryCode": "244",
+        "isoCodes": "AO / AGO",
+        "population": "13,068,161",
+        "areaKM2": "1,246,700",
+        "gdpUSD": "124 Billion"
+    },
+    {
+        "country": "Anguilla",
+        "countryCode": "1-264",
+        "isoCodes": "AI / AIA",
+        "population": "13,254",
+        "areaKM2": "102",
+        "gdpUSD": "175.4 Million"
+    },
+    {
+        "country": "Antarctica",
+        "countryCode": "672",
+        "isoCodes": "AQ / ATA",
+        "population": "0",
+        "areaKM2": "14,000,000"
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "countryCode": "1-268",
+        "isoCodes": "AG / ATG",
+        "population": "86,754",
+        "areaKM2": "443",
+        "gdpUSD": "1.22 Billion"
+    },
+    {
+        "country": "Argentina",
+        "countryCode": "54",
+        "isoCodes": "AR / ARG",
+        "population": "41,343,201",
+        "areaKM2": "2,766,890",
+        "gdpUSD": "484.6 Billion"
+    },
+    {
+        "country": "Armenia",
+        "countryCode": "374",
+        "isoCodes": "AM / ARM",
+        "population": "2,968,000",
+        "areaKM2": "29,800",
+        "gdpUSD": "10.44 Billion"
+    },
+    {
+        "country": "Aruba",
+        "countryCode": "297",
+        "isoCodes": "AW / ABW",
+        "population": "71,566",
+        "areaKM2": "193",
+        "gdpUSD": "2.516 Billion"
+    },
+    {
+        "country": "Australia",
+        "countryCode": "61",
+        "isoCodes": "AU / AUS",
+        "population": "21,515,754",
+        "areaKM2": "7,686,850",
+        "gdpUSD": "1.488 Trillion"
+    },
+    {
+        "country": "Austria",
+        "countryCode": "43",
+        "isoCodes": "AT / AUT",
+        "population": "8,205,000",
+        "areaKM2": "83,858",
+        "gdpUSD": "417.9 Billion"
+    },
+    {
+        "country": "Azerbaijan",
+        "countryCode": "994",
+        "isoCodes": "AZ / AZE",
+        "population": "8,303,512",
+        "areaKM2": "86,600",
+        "gdpUSD": "76.01 Billion"
+    },
+    {
+        "country": "Bahamas",
+        "countryCode": "1-242",
+        "isoCodes": "BS / BHS",
+        "population": "301,790",
+        "areaKM2": "13,940",
+        "gdpUSD": "8.373 Billion"
+    },
+    {
+        "country": "Bahrain",
+        "countryCode": "973",
+        "isoCodes": "BH / BHR",
+        "population": "738,004",
+        "areaKM2": "665",
+        "gdpUSD": "28.36 Billion"
+    },
+    {
+        "country": "Bangladesh",
+        "countryCode": "880",
+        "isoCodes": "BD / BGD",
+        "population": "156,118,464",
+        "areaKM2": "144,000",
+        "gdpUSD": "140.2 Billion"
+    },
+    {
+        "country": "Barbados",
+        "countryCode": "1-246",
+        "isoCodes": "BB / BRB",
+        "population": "285,653",
+        "areaKM2": "431",
+        "gdpUSD": "4.262 Billion"
+    },
+    {
+        "country": "Belarus",
+        "countryCode": "375",
+        "isoCodes": "BY / BLR",
+        "population": "9,685,000",
+        "areaKM2": "207,600",
+        "gdpUSD": "69.24 Billion"
+    },
+    {
+        "country": "Belgium",
+        "countryCode": "32",
+        "isoCodes": "BE / BEL",
+        "population": "10,403,000",
+        "areaKM2": "30,510",
+        "gdpUSD": "507.4 Billion"
+    },
+    {
+        "country": "Belize",
+        "countryCode": "501",
+        "isoCodes": "BZ / BLZ",
+        "population": "314,522",
+        "areaKM2": "22,966",
+        "gdpUSD": "1.637 Billion"
+    },
+    {
+        "country": "Benin",
+        "countryCode": "229",
+        "isoCodes": "BJ / BEN",
+        "population": "9,056,010",
+        "areaKM2": "112,620",
+        "gdpUSD": "8.359 Billion"
+    },
+    {
+        "country": "Bermuda",
+        "countryCode": "1-441",
+        "isoCodes": "BM / BMU",
+        "population": "65,365",
+        "areaKM2": "53",
+        "gdpUSD": "5.6 Billion"
+    },
+    {
+        "country": "Bhutan",
+        "countryCode": "975",
+        "isoCodes": "BT / BTN",
+        "population": "699,847",
+        "areaKM2": "47,000",
+        "gdpUSD": "2.133 Billion"
+    },
+    {
+        "country": "Bolivia",
+        "countryCode": "591",
+        "isoCodes": "BO / BOL",
+        "population": "9,947,418",
+        "areaKM2": "1,098,580",
+        "gdpUSD": "30.79 Billion"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "countryCode": "387",
+        "isoCodes": "BA / BIH",
+        "population": "4,590,000",
+        "areaKM2": "51,129",
+        "gdpUSD": "18.87 Billion"
+    },
+    {
+        "country": "Botswana",
+        "countryCode": "267",
+        "isoCodes": "BW / BWA",
+        "population": "2,029,307",
+        "areaKM2": "600,370",
+        "gdpUSD": "15.53 Billion"
+    },
+    {
+        "country": "Brazil",
+        "countryCode": "55",
+        "isoCodes": "BR / BRA",
+        "population": "201,103,330",
+        "areaKM2": "8,511,965",
+        "gdpUSD": "2.19 Trillion"
+    },
+    {
+        "country": "British Indian Ocean Territory",
+        "countryCode": "246",
+        "isoCodes": "IO / IOT",
+        "population": "4,000",
+        "areaKM2": "60"
+    },
+    {
+        "country": "British Virgin Islands",
+        "countryCode": "1-284",
+        "isoCodes": "VG / VGB",
+        "population": "21,730",
+        "areaKM2": "153",
+        "gdpUSD": "1.095 Billion"
+    },
+    {
+        "country": "Brunei",
+        "countryCode": "673",
+        "isoCodes": "BN / BRN",
+        "population": "395,027",
+        "areaKM2": "5,770",
+        "gdpUSD": "16.56 Billion"
+    },
+    {
+        "country": "Bulgaria",
+        "countryCode": "359",
+        "isoCodes": "BG / BGR",
+        "population": "7,148,785",
+        "areaKM2": "110,910",
+        "gdpUSD": "53.7 Billion"
+    },
+    {
+        "country": "Burkina Faso",
+        "countryCode": "226",
+        "isoCodes": "BF / BFA",
+        "population": "16,241,811",
+        "areaKM2": "274,200",
+        "gdpUSD": "12.13 Billion"
+    },
+    {
+        "country": "Myanmar",
+        "countryCode": "95",
+        "isoCodes": "MM / MMR",
+        "population": "53,414,374",
+        "areaKM2": "678,500",
+        "gdpUSD": "59.43 Billion"
+    },
+    {
+        "country": "Burundi",
+        "countryCode": "257",
+        "isoCodes": "BI / BDI",
+        "population": "9,863,117",
+        "areaKM2": "27,830",
+        "gdpUSD": "2.676 Billion"
+    },
+    {
+        "country": "Cambodia",
+        "countryCode": "855",
+        "isoCodes": "KH / KHM",
+        "population": "14,453,680",
+        "areaKM2": "181,040",
+        "gdpUSD": "15.64 Billion"
+    },
+    {
+        "country": "Cameroon",
+        "countryCode": "237",
+        "isoCodes": "CM / CMR",
+        "population": "19,294,149",
+        "areaKM2": "475,440",
+        "gdpUSD": "27.88 Billion"
+    },
+    {
+        "country": "Canada",
+        "countryCode": "1",
+        "isoCodes": "CA / CAN",
+        "population": "33,679,000",
+        "areaKM2": "9,984,670",
+        "gdpUSD": "1.825 Trillion"
+    },
+    {
+        "country": "Cape Verde",
+        "countryCode": "238",
+        "isoCodes": "CV / CPV",
+        "population": "508,659",
+        "areaKM2": "4,033",
+        "gdpUSD": "1.955 Billion"
+    },
+    {
+        "country": "Cayman Islands",
+        "countryCode": "1-345",
+        "isoCodes": "KY / CYM",
+        "population": "44,270",
+        "areaKM2": "262",
+        "gdpUSD": "2.25 Billion"
+    },
+    {
+        "country": "Central African Republic",
+        "countryCode": "236",
+        "isoCodes": "CF / CAF",
+        "population": "4,844,927",
+        "areaKM2": "622,984",
+        "gdpUSD": "2.05 Billion"
+    },
+    {
+        "country": "Chad",
+        "countryCode": "235",
+        "isoCodes": "TD / TCD",
+        "population": "10,543,464",
+        "areaKM2": "1,284,000",
+        "gdpUSD": "13.59 Billion"
+    },
+    {
+        "country": "Chile",
+        "countryCode": "56",
+        "isoCodes": "CL / CHL",
+        "population": "16,746,491",
+        "areaKM2": "756,950",
+        "gdpUSD": "281.7 Billion"
+    },
+    {
+        "country": "China",
+        "countryCode": "86",
+        "isoCodes": "CN / CHN",
+        "population": "1,330,044,000",
+        "areaKM2": "9,596,960",
+        "gdpUSD": "9.33 Trillion"
+    },
+    {
+        "country": "Christmas Island",
+        "countryCode": "61",
+        "isoCodes": "CX / CXR",
+        "population": "1,500",
+        "areaKM2": "135"
+    },
+    {
+        "country": "Cocos Islands",
+        "countryCode": "61",
+        "isoCodes": "CC / CCK",
+        "population": "628",
+        "areaKM2": "14"
+    },
+    {
+        "country": "Colombia",
+        "countryCode": "57",
+        "isoCodes": "CO / COL",
+        "population": "47,790,000",
+        "areaKM2": "1,138,910",
+        "gdpUSD": "369.2 Billion"
+    },
+    {
+        "country": "Comoros",
+        "countryCode": "269",
+        "isoCodes": "KM / COM",
+        "population": "773,407",
+        "areaKM2": "2,170",
+        "gdpUSD": "658 Million"
+    },
+    {
+        "country": "Republic of the Congo",
+        "countryCode": "242",
+        "isoCodes": "CG / COG",
+        "population": "3,039,126",
+        "areaKM2": "342,000",
+        "gdpUSD": "14.25 Billion"
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "countryCode": "243",
+        "isoCodes": "CD / COD",
+        "population": "70,916,439",
+        "areaKM2": "2,345,410",
+        "gdpUSD": "18.56 Billion"
+    },
+    {
+        "country": "Cook Islands",
+        "countryCode": "682",
+        "isoCodes": "CK / COK",
+        "population": "21,388",
+        "areaKM2": "240",
+        "gdpUSD": "183.2 Million"
+    },
+    {
+        "country": "Costa Rica",
+        "countryCode": "506",
+        "isoCodes": "CR / CRI",
+        "population": "4,516,220",
+        "areaKM2": "51,100",
+        "gdpUSD": "48.51 Billion"
+    },
+    {
+        "country": "Croatia",
+        "countryCode": "385",
+        "isoCodes": "HR / HRV",
+        "population": "4,491,000",
+        "areaKM2": "56,542",
+        "gdpUSD": "59.14 Billion"
+    },
+    {
+        "country": "Cuba",
+        "countryCode": "53",
+        "isoCodes": "CU / CUB",
+        "population": "11,423,000",
+        "areaKM2": "110,860",
+        "gdpUSD": "72.3 Billion"
+    },
+    {
+        "country": "Curacao",
+        "countryCode": "599",
+        "isoCodes": "CW / CUW",
+        "population": "141,766",
+        "areaKM2": "444",
+        "gdpUSD": "5.6 Billion"
+    },
+    {
+        "country": "Cyprus",
+        "countryCode": "357",
+        "isoCodes": "CY / CYP",
+        "population": "1,102,677",
+        "areaKM2": "9,250",
+        "gdpUSD": "21.78 Billion"
+    },
+    {
+        "country": "Czech Republic",
+        "countryCode": "420",
+        "isoCodes": "CZ / CZE",
+        "population": "10,476,000",
+        "areaKM2": "78,866",
+        "gdpUSD": "194.8 Billion"
+    },
+    {
+        "country": "Denmark",
+        "countryCode": "45",
+        "isoCodes": "DK / DNK",
+        "population": "5,484,000",
+        "areaKM2": "43,094",
+        "gdpUSD": "324.3 Billion"
+    },
+    {
+        "country": "Djibouti",
+        "countryCode": "253",
+        "isoCodes": "DJ / DJI",
+        "population": "740,528",
+        "areaKM2": "23,000",
+        "gdpUSD": "1.459 Billion"
+    },
+    {
+        "country": "Dominica",
+        "countryCode": "1-767",
+        "isoCodes": "DM / DMA",
+        "population": "72,813",
+        "areaKM2": "754",
+        "gdpUSD": "495 Million"
+    },
+    {
+        "country": "Dominican Republic",
+        "countryCode": "1-809, 1-829, 1-849",
+        "isoCodes": "DO / DOM",
+        "population": "9,823,821",
+        "areaKM2": "48,730",
+        "gdpUSD": "59.27 Billion"
+    },
+    {
+        "country": "East Timor",
+        "countryCode": "670",
+        "isoCodes": "TL / TLS",
+        "population": "1,154,625",
+        "areaKM2": "15,007",
+        "gdpUSD": "6.129 Billion"
+    },
+    {
+        "country": "Ecuador",
+        "countryCode": "593",
+        "isoCodes": "EC / ECU",
+        "population": "14,790,608",
+        "areaKM2": "283,560",
+        "gdpUSD": "91.41 Billion"
+    },
+    {
+        "country": "Egypt",
+        "countryCode": "20",
+        "isoCodes": "EG / EGY",
+        "population": "80,471,869",
+        "areaKM2": "1,001,450",
+        "gdpUSD": "262 Billion"
+    },
+    {
+        "country": "El Salvador",
+        "countryCode": "503",
+        "isoCodes": "SV / SLV",
+        "population": "6,052,064",
+        "areaKM2": "21,040",
+        "gdpUSD": "24.67 Billion"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "countryCode": "240",
+        "isoCodes": "GQ / GNQ",
+        "population": "1,014,999",
+        "areaKM2": "28,051",
+        "gdpUSD": "17.08 Billion"
+    },
+    {
+        "country": "Eritrea",
+        "countryCode": "291",
+        "isoCodes": "ER / ERI",
+        "population": "5,792,984",
+        "areaKM2": "121,320",
+        "gdpUSD": "3.438 Billion"
+    },
+    {
+        "country": "Estonia",
+        "countryCode": "372",
+        "isoCodes": "EE / EST",
+        "population": "1,291,170",
+        "areaKM2": "45,226",
+        "gdpUSD": "24.28 Billion"
+    },
+    {
+        "country": "Ethiopia",
+        "countryCode": "251",
+        "isoCodes": "ET / ETH",
+        "population": "88,013,491",
+        "areaKM2": "1,127,127",
+        "gdpUSD": "47.34 Billion"
+    },
+    {
+        "country": "Falkland Islands",
+        "countryCode": "500",
+        "isoCodes": "FK / FLK",
+        "population": "2,638",
+        "areaKM2": "12,173",
+        "gdpUSD": "164.5 Million"
+    },
+    {
+        "country": "Faroe Islands",
+        "countryCode": "298",
+        "isoCodes": "FO / FRO",
+        "population": "48,228",
+        "areaKM2": "1,399",
+        "gdpUSD": "2.32 Billion"
+    },
+    {
+        "country": "Fiji",
+        "countryCode": "679",
+        "isoCodes": "FJ / FJI",
+        "population": "875,983",
+        "areaKM2": "18,270",
+        "gdpUSD": "4.218 Billion"
+    },
+    {
+        "country": "Finland",
+        "countryCode": "358",
+        "isoCodes": "FI / FIN",
+        "population": "5,244,000",
+        "areaKM2": "337,030",
+        "gdpUSD": "259.6 Billion"
+    },
+    {
+        "country": "France",
+        "countryCode": "33",
+        "isoCodes": "FR / FRA",
+        "population": "64,768,389",
+        "areaKM2": "547,030",
+        "gdpUSD": "2.739 Trillion"
+    },
+    {
+        "country": "French Polynesia",
+        "countryCode": "689",
+        "isoCodes": "PF / PYF",
+        "population": "270,485",
+        "areaKM2": "4,167",
+        "gdpUSD": "5.65 Billion"
+    },
+    {
+        "country": "Gabon",
+        "countryCode": "241",
+        "isoCodes": "GA / GAB",
+        "population": "1,545,255",
+        "areaKM2": "267,667",
+        "gdpUSD": "19.97 Billion"
+    },
+    {
+        "country": "Gambia",
+        "countryCode": "220",
+        "isoCodes": "GM / GMB",
+        "population": "1,593,256",
+        "areaKM2": "11,300",
+        "gdpUSD": "896 Million"
+    },
+    {
+        "country": "Georgia",
+        "countryCode": "995",
+        "isoCodes": "GE / GEO",
+        "population": "4,630,000",
+        "areaKM2": "69,700",
+        "gdpUSD": "15.95 Billion"
+    },
+    {
+        "country": "Germany",
+        "countryCode": "49",
+        "isoCodes": "DE / DEU",
+        "population": "81,802,257",
+        "areaKM2": "357,021",
+        "gdpUSD": "3.593 Trillion"
+    },
+    {
+        "country": "Ghana",
+        "countryCode": "233",
+        "isoCodes": "GH / GHA",
+        "population": "24,339,838",
+        "areaKM2": "239,460",
+        "gdpUSD": "45.55 Billion"
+    },
+    {
+        "country": "Gibraltar",
+        "countryCode": "350",
+        "isoCodes": "GI / GIB",
+        "population": "27,884",
+        "areaKM2": "7",
+        "gdpUSD": "1.106 Billion"
+    },
+    {
+        "country": "Greece",
+        "countryCode": "30",
+        "isoCodes": "GR / GRC",
+        "population": "11,000,000",
+        "areaKM2": "131,940",
+        "gdpUSD": "243.3 Billion"
+    },
+    {
+        "country": "Greenland",
+        "countryCode": "299",
+        "isoCodes": "GL / GRL",
+        "population": "56,375",
+        "areaKM2": "2,166,086",
+        "gdpUSD": "2.16 Billion"
+    },
+    {
+        "country": "Grenada",
+        "countryCode": "1-473",
+        "isoCodes": "GD / GRD",
+        "population": "107,818",
+        "areaKM2": "344",
+        "gdpUSD": "811 Million"
+    },
+    {
+        "country": "Guam",
+        "countryCode": "1-671",
+        "isoCodes": "GU / GUM",
+        "population": "159,358",
+        "areaKM2": "549",
+        "gdpUSD": "4.6 Billion"
+    },
+    {
+        "country": "Guatemala",
+        "countryCode": "502",
+        "isoCodes": "GT / GTM",
+        "population": "13,550,440",
+        "areaKM2": "108,890",
+        "gdpUSD": "53.9 Billion"
+    },
+    {
+        "country": "Guernsey",
+        "countryCode": "44-1481",
+        "isoCodes": "GG / GGY",
+        "population": "65,228",
+        "areaKM2": "78",
+        "gdpUSD": "2.742 Billion"
+    },
+    {
+        "country": "Guinea",
+        "countryCode": "224",
+        "isoCodes": "GN / GIN",
+        "population": "10,324,025",
+        "areaKM2": "245,857",
+        "gdpUSD": "6.544 Billion"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "countryCode": "245",
+        "isoCodes": "GW / GNB",
+        "population": "1,565,126",
+        "areaKM2": "36,120",
+        "gdpUSD": "880 Million"
+    },
+    {
+        "country": "Guyana",
+        "countryCode": "592",
+        "isoCodes": "GY / GUY",
+        "population": "748,486",
+        "areaKM2": "214,970",
+        "gdpUSD": "3.02 Billion"
+    },
+    {
+        "country": "Haiti",
+        "countryCode": "509",
+        "isoCodes": "HT / HTI",
+        "population": "9,648,924",
+        "areaKM2": "27,750",
+        "gdpUSD": "8.287 Billion"
+    },
+    {
+        "country": "Honduras",
+        "countryCode": "504",
+        "isoCodes": "HN / HND",
+        "population": "7,989,415",
+        "areaKM2": "112,090",
+        "gdpUSD": "18.88 Billion"
+    },
+    {
+        "country": "Hong Kong",
+        "countryCode": "852",
+        "isoCodes": "HK / HKG",
+        "population": "6,898,686",
+        "areaKM2": "1,092",
+        "gdpUSD": "272.1 Billion"
+    },
+    {
+        "country": "Hungary",
+        "countryCode": "36",
+        "isoCodes": "HU / HUN",
+        "population": "9,982,000",
+        "areaKM2": "93,030",
+        "gdpUSD": "130.6 Billion"
+    },
+    {
+        "country": "Iceland",
+        "countryCode": "354",
+        "isoCodes": "IS / ISL",
+        "population": "308,910",
+        "areaKM2": "103,000",
+        "gdpUSD": "14.59 Billion"
+    },
+    {
+        "country": "India",
+        "countryCode": "91",
+        "isoCodes": "IN / IND",
+        "population": "1,173,108,018",
+        "areaKM2": "3,287,590",
+        "gdpUSD": "1.67 Trillion"
+    },
+    {
+        "country": "Indonesia",
+        "countryCode": "62",
+        "isoCodes": "ID / IDN",
+        "population": "242,968,342",
+        "areaKM2": "1,919,440",
+        "gdpUSD": "867.5 Billion"
+    },
+    {
+        "country": "Iran",
+        "countryCode": "98",
+        "isoCodes": "IR / IRN",
+        "population": "76,923,300",
+        "areaKM2": "1,648,000",
+        "gdpUSD": "411.9 Billion"
+    },
+    {
+        "country": "Iraq",
+        "countryCode": "964",
+        "isoCodes": "IQ / IRQ",
+        "population": "29,671,605",
+        "areaKM2": "437,072",
+        "gdpUSD": "221.8 Billion"
+    },
+    {
+        "country": "Ireland",
+        "countryCode": "353",
+        "isoCodes": "IE / IRL",
+        "population": "4,622,917",
+        "areaKM2": "70,280",
+        "gdpUSD": "220.9 Billion"
+    },
+    {
+        "country": "Isle of Man",
+        "countryCode": "44-1624",
+        "isoCodes": "IM / IMN",
+        "population": "75,049",
+        "areaKM2": "572",
+        "gdpUSD": "4.076 Billion"
+    },
+    {
+        "country": "Israel",
+        "countryCode": "972",
+        "isoCodes": "IL / ISR",
+        "population": "7,353,985",
+        "areaKM2": "20,770",
+        "gdpUSD": "272.7 Billion"
+    },
+    {
+        "country": "Italy",
+        "countryCode": "39",
+        "isoCodes": "IT / ITA",
+        "population": "60,340,328",
+        "areaKM2": "301,230",
+        "gdpUSD": "2.068 Trillion"
+    },
+    {
+        "country": "Ivory Coast",
+        "countryCode": "225",
+        "isoCodes": "CI / CIV",
+        "population": "21,058,798",
+        "areaKM2": "322,460",
+        "gdpUSD": "28.28 Billion"
+    },
+    {
+        "country": "Jamaica",
+        "countryCode": "1-876",
+        "isoCodes": "JM / JAM",
+        "population": "2,847,232",
+        "areaKM2": "10,991",
+        "gdpUSD": "14.39 Billion"
+    },
+    {
+        "country": "Japan",
+        "countryCode": "81",
+        "isoCodes": "JP / JPN",
+        "population": "127,288,000",
+        "areaKM2": "377,835",
+        "gdpUSD": "5.007 Trillion"
+    },
+    {
+        "country": "Jersey",
+        "countryCode": "44-1534",
+        "isoCodes": "JE / JEY",
+        "population": "90,812",
+        "areaKM2": "116",
+        "gdpUSD": "5.1 Billion"
+    },
+    {
+        "country": "Jordan",
+        "countryCode": "962",
+        "isoCodes": "JO / JOR",
+        "population": "6,407,085",
+        "areaKM2": "92,300",
+        "gdpUSD": "34.08 Billion"
+    },
+    {
+        "country": "Kazakhstan",
+        "countryCode": "7",
+        "isoCodes": "KZ / KAZ",
+        "population": "15,340,000",
+        "areaKM2": "2,717,300",
+        "gdpUSD": "224.9 Billion"
+    },
+    {
+        "country": "Kenya",
+        "countryCode": "254",
+        "isoCodes": "KE / KEN",
+        "population": "40,046,566",
+        "areaKM2": "582,650",
+        "gdpUSD": "45.31 Billion"
+    },
+    {
+        "country": "Kiribati",
+        "countryCode": "686",
+        "isoCodes": "KI / KIR",
+        "population": "92,533",
+        "areaKM2": "811",
+        "gdpUSD": "173 Million"
+    },
+    {
+        "country": "Kosovo",
+        "countryCode": "383",
+        "isoCodes": "XK / XKX",
+        "population": "1,800,000",
+        "areaKM2": "10,887",
+        "gdpUSD": "7.15 Billion"
+    },
+    {
+        "country": "Kuwait",
+        "countryCode": "965",
+        "isoCodes": "KW / KWT",
+        "population": "2,789,132",
+        "areaKM2": "17,820",
+        "gdpUSD": "179.5 Billion"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "countryCode": "996",
+        "isoCodes": "KG / KGZ",
+        "population": "5,508,626",
+        "areaKM2": "198,500",
+        "gdpUSD": "7.234 Billion"
+    },
+    {
+        "country": "Laos",
+        "countryCode": "856",
+        "isoCodes": "LA / LAO",
+        "population": "6,368,162",
+        "areaKM2": "236,800",
+        "gdpUSD": "10.1 Billion"
+    },
+    {
+        "country": "Latvia",
+        "countryCode": "371",
+        "isoCodes": "LV / LVA",
+        "population": "2,217,969",
+        "areaKM2": "64,589",
+        "gdpUSD": "30.38 Billion"
+    },
+    {
+        "country": "Lebanon",
+        "countryCode": "961",
+        "isoCodes": "LB / LBN",
+        "population": "4,125,247",
+        "areaKM2": "10,400",
+        "gdpUSD": "43.49 Billion"
+    },
+    {
+        "country": "Lesotho",
+        "countryCode": "266",
+        "isoCodes": "LS / LSO",
+        "population": "1,919,552",
+        "areaKM2": "30,355",
+        "gdpUSD": "2.457 Billion"
+    },
+    {
+        "country": "Liberia",
+        "countryCode": "231",
+        "isoCodes": "LR / LBR",
+        "population": "3,685,076",
+        "areaKM2": "111,370",
+        "gdpUSD": "1.977 Billion"
+    },
+    {
+        "country": "Libya",
+        "countryCode": "218",
+        "isoCodes": "LY / LBY",
+        "population": "6,461,454",
+        "areaKM2": "1,759,540",
+        "gdpUSD": "70.92 Billion"
+    },
+    {
+        "country": "Liechtenstein",
+        "countryCode": "423",
+        "isoCodes": "LI / LIE",
+        "population": "35,000",
+        "areaKM2": "160",
+        "gdpUSD": "5.113 Billion"
+    },
+    {
+        "country": "Lithuania",
+        "countryCode": "370",
+        "isoCodes": "LT / LTU",
+        "population": "2,944,459",
+        "areaKM2": "65,200",
+        "gdpUSD": "46.71 Billion"
+    },
+    {
+        "country": "Luxembourg",
+        "countryCode": "352",
+        "isoCodes": "LU / LUX",
+        "population": "497,538",
+        "areaKM2": "2,586",
+        "gdpUSD": "60.54 Billion"
+    },
+    {
+        "country": "Macau",
+        "countryCode": "853",
+        "isoCodes": "MO / MAC",
+        "population": "449,198",
+        "areaKM2": "254",
+        "gdpUSD": "51.68 Billion"
+    },
+    {
+        "country": "Macedonia",
+        "countryCode": "389",
+        "isoCodes": "MK / MKD",
+        "population": "2,062,294",
+        "areaKM2": "25,333",
+        "gdpUSD": "10.65 Billion"
+    },
+    {
+        "country": "Madagascar",
+        "countryCode": "261",
+        "isoCodes": "MG / MDG",
+        "population": "21,281,844",
+        "areaKM2": "587,040",
+        "gdpUSD": "10.53 Billion"
+    },
+    {
+        "country": "Malawi",
+        "countryCode": "265",
+        "isoCodes": "MW / MWI",
+        "population": "15,447,500",
+        "areaKM2": "118,480",
+        "gdpUSD": "3.683 Billion"
+    },
+    {
+        "country": "Malaysia",
+        "countryCode": "60",
+        "isoCodes": "MY / MYS",
+        "population": "28,274,729",
+        "areaKM2": "329,750",
+        "gdpUSD": "312.4 Billion"
+    },
+    {
+        "country": "Maldives",
+        "countryCode": "960",
+        "isoCodes": "MV / MDV",
+        "population": "395,650",
+        "areaKM2": "300",
+        "gdpUSD": "2.27 Billion"
+    },
+    {
+        "country": "Mali",
+        "countryCode": "223",
+        "isoCodes": "ML / MLI",
+        "population": "13,796,354",
+        "areaKM2": "1,240,000",
+        "gdpUSD": "11.37 Billion"
+    },
+    {
+        "country": "Malta",
+        "countryCode": "356",
+        "isoCodes": "MT / MLT",
+        "population": "403,000",
+        "areaKM2": "316",
+        "gdpUSD": "9.541 Billion"
+    },
+    {
+        "country": "Marshall Islands",
+        "countryCode": "692",
+        "isoCodes": "MH / MHL",
+        "population": "65,859",
+        "areaKM2": "181",
+        "gdpUSD": "193 Million"
+    },
+    {
+        "country": "Mauritania",
+        "countryCode": "222",
+        "isoCodes": "MR / MRT",
+        "population": "3,205,060",
+        "areaKM2": "1,030,700",
+        "gdpUSD": "4.183 Billion"
+    },
+    {
+        "country": "Mauritius",
+        "countryCode": "230",
+        "isoCodes": "MU / MUS",
+        "population": "1,294,104",
+        "areaKM2": "2,040",
+        "gdpUSD": "11.9 Billion"
+    },
+    {
+        "country": "Mayotte",
+        "countryCode": "262",
+        "isoCodes": "YT / MYT",
+        "population": "159,042",
+        "areaKM2": "374"
+    },
+    {
+        "country": "Mexico",
+        "countryCode": "52",
+        "isoCodes": "MX / MEX",
+        "population": "112,468,855",
+        "areaKM2": "1,972,550",
+        "gdpUSD": "1.327 Trillion"
+    },
+    {
+        "country": "Micronesia",
+        "countryCode": "691",
+        "isoCodes": "FM / FSM",
+        "population": "107,708",
+        "areaKM2": "702",
+        "gdpUSD": "339 Million"
+    },
+    {
+        "country": "Moldova",
+        "countryCode": "373",
+        "isoCodes": "MD / MDA",
+        "population": "4,324,000",
+        "areaKM2": "33,843",
+        "gdpUSD": "7.932 Billion"
+    },
+    {
+        "country": "Monaco",
+        "countryCode": "377",
+        "isoCodes": "MC / MCO",
+        "population": "32,965",
+        "areaKM2": "2",
+        "gdpUSD": "5.748 Billion"
+    },
+    {
+        "country": "Mongolia",
+        "countryCode": "976",
+        "isoCodes": "MN / MNG",
+        "population": "3,086,918",
+        "areaKM2": "1,565,000",
+        "gdpUSD": "11.14 Billion"
+    },
+    {
+        "country": "Montenegro",
+        "countryCode": "382",
+        "isoCodes": "ME / MNE",
+        "population": "666,730",
+        "areaKM2": "14,026",
+        "gdpUSD": "4.518 Billion"
+    },
+    {
+        "country": "Montserrat",
+        "countryCode": "1-664",
+        "isoCodes": "MS / MSR",
+        "population": "9,341",
+        "areaKM2": "102"
+    },
+    {
+        "country": "Morocco",
+        "countryCode": "212",
+        "isoCodes": "MA / MAR",
+        "population": "31,627,428",
+        "areaKM2": "446,550",
+        "gdpUSD": "104.8 Billion"
+    },
+    {
+        "country": "Mozambique",
+        "countryCode": "258",
+        "isoCodes": "MZ / MOZ",
+        "population": "22,061,451",
+        "areaKM2": "801,590",
+        "gdpUSD": "14.67 Billion"
+    },
+    {
+        "country": "Namibia",
+        "countryCode": "264",
+        "isoCodes": "NA / NAM",
+        "population": "2,128,471",
+        "areaKM2": "825,418",
+        "gdpUSD": "12.3 Billion"
+    },
+    {
+        "country": "Nauru",
+        "countryCode": "674",
+        "isoCodes": "NR / NRU",
+        "population": "10,065",
+        "areaKM2": "21"
+    },
+    {
+        "country": "Nepal",
+        "countryCode": "977",
+        "isoCodes": "NP / NPL",
+        "population": "28,951,852",
+        "areaKM2": "140,800",
+        "gdpUSD": "19.34 Billion"
+    },
+    {
+        "country": "Netherlands",
+        "countryCode": "31",
+        "isoCodes": "NL / NLD",
+        "population": "16,645,000",
+        "areaKM2": "41,526",
+        "gdpUSD": "722.3 Billion"
+    },
+    {
+        "country": "Netherlands Antilles",
+        "countryCode": "599",
+        "isoCodes": "AN / ANT",
+        "population": "136,197",
+        "areaKM2": "960"
+    },
+    {
+        "country": "New Caledonia",
+        "countryCode": "687",
+        "isoCodes": "NC / NCL",
+        "population": "216,494",
+        "areaKM2": "19,060",
+        "gdpUSD": "9.28 Billion"
+    },
+    {
+        "country": "New Zealand",
+        "countryCode": "64",
+        "isoCodes": "NZ / NZL",
+        "population": "4,252,277",
+        "areaKM2": "268,680",
+        "gdpUSD": "181.1 Billion"
+    },
+    {
+        "country": "Nicaragua",
+        "countryCode": "505",
+        "isoCodes": "NI / NIC",
+        "population": "5,995,928",
+        "areaKM2": "129,494",
+        "gdpUSD": "11.26 Billion"
+    },
+    {
+        "country": "Niger",
+        "countryCode": "227",
+        "isoCodes": "NE / NER",
+        "population": "15,878,271",
+        "areaKM2": "1,267,000",
+        "gdpUSD": "7.304 Billion"
+    },
+    {
+        "country": "Nigeria",
+        "countryCode": "234",
+        "isoCodes": "NG / NGA",
+        "population": "154,000,000",
+        "areaKM2": "923,768",
+        "gdpUSD": "502 Billion"
+    },
+    {
+        "country": "Niue",
+        "countryCode": "683",
+        "isoCodes": "NU / NIU",
+        "population": "2,166",
+        "areaKM2": "260",
+        "gdpUSD": "10.01 Million"
+    },
+    {
+        "country": "Northern Mariana Islands",
+        "countryCode": "1-670",
+        "isoCodes": "MP / MNP",
+        "population": "53,883",
+        "areaKM2": "477",
+        "gdpUSD": "733 Million"
+    },
+    {
+        "country": "North Korea",
+        "countryCode": "850",
+        "isoCodes": "KP / PRK",
+        "population": "22,912,177",
+        "areaKM2": "120,540",
+        "gdpUSD": "28 Billion"
+    },
+    {
+        "country": "Norway",
+        "countryCode": "47",
+        "isoCodes": "NO / NOR",
+        "population": "5,009,150",
+        "areaKM2": "324,220",
+        "gdpUSD": "515.8 Billion"
+    },
+    {
+        "country": "Oman",
+        "countryCode": "968",
+        "isoCodes": "OM / OMN",
+        "population": "2,967,717",
+        "areaKM2": "212,460",
+        "gdpUSD": "81.95 Billion"
+    },
+    {
+        "country": "Pakistan",
+        "countryCode": "92",
+        "isoCodes": "PK / PAK",
+        "population": "184,404,791",
+        "areaKM2": "803,940",
+        "gdpUSD": "236.5 Billion"
+    },
+    {
+        "country": "Palau",
+        "countryCode": "680",
+        "isoCodes": "PW / PLW",
+        "population": "19,907",
+        "areaKM2": "458",
+        "gdpUSD": "221 Million"
+    },
+    {
+        "country": "Palestine",
+        "countryCode": "970",
+        "isoCodes": "PS / PSE",
+        "population": "3,800,000",
+        "areaKM2": "5,970",
+        "gdpUSD": "6.641 Billion"
+    },
+    {
+        "country": "Panama",
+        "countryCode": "507",
+        "isoCodes": "PA / PAN",
+        "population": "3,410,676",
+        "areaKM2": "78,200",
+        "gdpUSD": "40.62 Billion"
+    },
+    {
+        "country": "Papua New Guinea",
+        "countryCode": "675",
+        "isoCodes": "PG / PNG",
+        "population": "6,064,515",
+        "areaKM2": "462,840",
+        "gdpUSD": "16.1 Billion"
+    },
+    {
+        "country": "Paraguay",
+        "countryCode": "595",
+        "isoCodes": "PY / PRY",
+        "population": "6,375,830",
+        "areaKM2": "406,750",
+        "gdpUSD": "30.56 Billion"
+    },
+    {
+        "country": "Peru",
+        "countryCode": "51",
+        "isoCodes": "PE / PER",
+        "population": "29,907,003",
+        "areaKM2": "1,285,220",
+        "gdpUSD": "210.3 Billion"
+    },
+    {
+        "country": "Philippines",
+        "countryCode": "63",
+        "isoCodes": "PH / PHL",
+        "population": "99,900,177",
+        "areaKM2": "300,000",
+        "gdpUSD": "272.2 Billion"
+    },
+    {
+        "country": "Pitcairn",
+        "countryCode": "64",
+        "isoCodes": "PN / PCN",
+        "population": "46",
+        "areaKM2": "47"
+    },
+    {
+        "country": "Poland",
+        "countryCode": "48",
+        "isoCodes": "PL / POL",
+        "population": "38,500,000",
+        "areaKM2": "312,685",
+        "gdpUSD": "513.9 Billion"
+    },
+    {
+        "country": "Portugal",
+        "countryCode": "351",
+        "isoCodes": "PT / PRT",
+        "population": "10,676,000",
+        "areaKM2": "92,391",
+        "gdpUSD": "219.3 Billion"
+    },
+    {
+        "country": "Puerto Rico",
+        "countryCode": "1-787, 1-939",
+        "isoCodes": "PR / PRI",
+        "population": "3,916,632",
+        "areaKM2": "9,104",
+        "gdpUSD": "93.52 Billion"
+    },
+    {
+        "country": "Qatar",
+        "countryCode": "974",
+        "isoCodes": "QA / QAT",
+        "population": "840,926",
+        "areaKM2": "11,437",
+        "gdpUSD": "213.1 Billion"
+    },
+    {
+        "country": "Reunion",
+        "countryCode": "262",
+        "isoCodes": "RE / REU",
+        "population": "776,948",
+        "areaKM2": "2,517"
+    },
+    {
+        "country": "Romania",
+        "countryCode": "40",
+        "isoCodes": "RO / ROU",
+        "population": "21,959,278",
+        "areaKM2": "237,500",
+        "gdpUSD": "188.9 Billion"
+    },
+    {
+        "country": "Russia",
+        "countryCode": "7",
+        "isoCodes": "RU / RUS",
+        "population": "140,702,000",
+        "areaKM2": "17,100,000",
+        "gdpUSD": "2.113 Trillion"
+    },
+    {
+        "country": "Rwanda",
+        "countryCode": "250",
+        "isoCodes": "RW / RWA",
+        "population": "11,055,976",
+        "areaKM2": "26,338",
+        "gdpUSD": "7.7 Billion"
+    },
+    {
+        "country": "Saint Barthelemy",
+        "countryCode": "590",
+        "isoCodes": "BL / BLM",
+        "population": "8,450",
+        "areaKM2": "21"
+    },
+    {
+        "country": "Samoa",
+        "countryCode": "685",
+        "isoCodes": "WS / WSM",
+        "population": "192,001",
+        "areaKM2": "2,944",
+        "gdpUSD": "705 Million"
+    },
+    {
+        "country": "San Marino",
+        "countryCode": "378",
+        "isoCodes": "SM / SMR",
+        "population": "31,477",
+        "areaKM2": "61",
+        "gdpUSD": "1.866 Billion"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "countryCode": "239",
+        "isoCodes": "ST / STP",
+        "population": "175,808",
+        "areaKM2": "1,001",
+        "gdpUSD": "311 Million"
+    },
+    {
+        "country": "Saudi Arabia",
+        "countryCode": "966",
+        "isoCodes": "SA / SAU",
+        "population": "25,731,776",
+        "areaKM2": "1,960,582",
+        "gdpUSD": "718.5 Billion"
+    },
+    {
+        "country": "Senegal",
+        "countryCode": "221",
+        "isoCodes": "SN / SEN",
+        "population": "12,323,252",
+        "areaKM2": "196,190",
+        "gdpUSD": "15.36 Billion"
+    },
+    {
+        "country": "Serbia",
+        "countryCode": "381",
+        "isoCodes": "RS / SRB",
+        "population": "7,344,847",
+        "areaKM2": "88,361",
+        "gdpUSD": "43.68 Billion"
+    },
+    {
+        "country": "Seychelles",
+        "countryCode": "248",
+        "isoCodes": "SC / SYC",
+        "population": "88,340",
+        "areaKM2": "455",
+        "gdpUSD": "1.271 Billion"
+    },
+    {
+        "country": "Sierra Leone",
+        "countryCode": "232",
+        "isoCodes": "SL / SLE",
+        "population": "5,245,695",
+        "areaKM2": "71,740",
+        "gdpUSD": "4.607 Billion"
+    },
+    {
+        "country": "Singapore",
+        "countryCode": "65",
+        "isoCodes": "SG / SGP",
+        "population": "4,701,069",
+        "areaKM2": "693",
+        "gdpUSD": "295.7 Billion"
+    },
+    {
+        "country": "Sint Maarten",
+        "countryCode": "1-721",
+        "isoCodes": "SX / SXM",
+        "population": "37,429",
+        "areaKM2": "34",
+        "gdpUSD": "794.7 Million"
+    },
+    {
+        "country": "Slovakia",
+        "countryCode": "421",
+        "isoCodes": "SK / SVK",
+        "population": "5,455,000",
+        "areaKM2": "48,845",
+        "gdpUSD": "96.96 Billion"
+    },
+    {
+        "country": "Slovenia",
+        "countryCode": "386",
+        "isoCodes": "SI / SVN",
+        "population": "2,007,000",
+        "areaKM2": "20,273",
+        "gdpUSD": "46.82 Billion"
+    },
+    {
+        "country": "Solomon Islands",
+        "countryCode": "677",
+        "isoCodes": "SB / SLB",
+        "population": "559,198",
+        "areaKM2": "28,450",
+        "gdpUSD": "1.099 Billion"
+    },
+    {
+        "country": "Somalia",
+        "countryCode": "252",
+        "isoCodes": "SO / SOM",
+        "population": "10,112,453",
+        "areaKM2": "637,657",
+        "gdpUSD": "2.372 Billion"
+    },
+    {
+        "country": "South Africa",
+        "countryCode": "27",
+        "isoCodes": "ZA / ZAF",
+        "population": "49,000,000",
+        "areaKM2": "1,219,912",
+        "gdpUSD": "353.9 Billion"
+    },
+    {
+        "country": "South Korea",
+        "countryCode": "82",
+        "isoCodes": "KR / KOR",
+        "population": "48,422,644",
+        "areaKM2": "98,480",
+        "gdpUSD": "1.198 Trillion"
+    },
+    {
+        "country": "South Sudan",
+        "countryCode": "211",
+        "isoCodes": "SS / SSD",
+        "population": "8,260,490",
+        "areaKM2": "644,329",
+        "gdpUSD": "11.77 Billion"
+    },
+    {
+        "country": "Spain",
+        "countryCode": "34",
+        "isoCodes": "ES / ESP",
+        "population": "46,505,963",
+        "areaKM2": "504,782",
+        "gdpUSD": "1.356 Trillion"
+    },
+    {
+        "country": "Sri Lanka",
+        "countryCode": "94",
+        "isoCodes": "LK / LKA",
+        "population": "21,513,990",
+        "areaKM2": "65,610",
+        "gdpUSD": "65.12 Billion"
+    },
+    {
+        "country": "Saint Helena",
+        "countryCode": "290",
+        "isoCodes": "SH / SHN",
+        "population": "7,460",
+        "areaKM2": "410"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "countryCode": "1-869",
+        "isoCodes": "KN / KNA",
+        "population": "51,134",
+        "areaKM2": "261",
+        "gdpUSD": "767 Million"
+    },
+    {
+        "country": "Saint Lucia",
+        "countryCode": "1-758",
+        "isoCodes": "LC / LCA",
+        "population": "160,922",
+        "areaKM2": "616",
+        "gdpUSD": "1.377 Billion"
+    },
+    {
+        "country": "Saint Martin",
+        "countryCode": "590",
+        "isoCodes": "MF / MAF",
+        "population": "35,925",
+        "areaKM2": "53",
+        "gdpUSD": "561.5 Million"
+    },
+    {
+        "country": "Saint Pierre and Miquelon",
+        "countryCode": "508",
+        "isoCodes": "PM / SPM",
+        "population": "7,012",
+        "areaKM2": "242",
+        "gdpUSD": "215.3 Million"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "countryCode": "1-784",
+        "isoCodes": "VC / VCT",
+        "population": "104,217",
+        "areaKM2": "389",
+        "gdpUSD": "742 Million"
+    },
+    {
+        "country": "Sudan",
+        "countryCode": "249",
+        "isoCodes": "SD / SDN",
+        "population": "35,000,000",
+        "areaKM2": "1,861,484",
+        "gdpUSD": "52.5 Billion"
+    },
+    {
+        "country": "Suriname",
+        "countryCode": "597",
+        "isoCodes": "SR / SUR",
+        "population": "492,829",
+        "areaKM2": "163,270",
+        "gdpUSD": "5.009 Billion"
+    },
+    {
+        "country": "Svalbard and Jan Mayen",
+        "countryCode": "47",
+        "isoCodes": "SJ / SJM",
+        "population": "2,550",
+        "areaKM2": "62,049"
+    },
+    {
+        "country": "Swaziland",
+        "countryCode": "268",
+        "isoCodes": "SZ / SWZ",
+        "population": "1,354,051",
+        "areaKM2": "17,363",
+        "gdpUSD": "3.807 Billion"
+    },
+    {
+        "country": "Sweden",
+        "countryCode": "46",
+        "isoCodes": "SE / SWE",
+        "population": "9,555,893",
+        "areaKM2": "449,964",
+        "gdpUSD": "552 Billion"
+    },
+    {
+        "country": "Switzerland",
+        "countryCode": "41",
+        "isoCodes": "CH / CHE",
+        "population": "7,581,000",
+        "areaKM2": "41,290",
+        "gdpUSD": "646.2 Billion"
+    },
+    {
+        "country": "Syria",
+        "countryCode": "963",
+        "isoCodes": "SY / SYR",
+        "population": "22,198,110",
+        "areaKM2": "185,180",
+        "gdpUSD": "64.7 Billion"
+    },
+    {
+        "country": "Taiwan",
+        "countryCode": "886",
+        "isoCodes": "TW / TWN",
+        "population": "22,894,384",
+        "areaKM2": "35,980",
+        "gdpUSD": "484.7 Billion"
+    },
+    {
+        "country": "Tajikistan",
+        "countryCode": "992",
+        "isoCodes": "TJ / TJK",
+        "population": "7,487,489",
+        "areaKM2": "143,100",
+        "gdpUSD": "8.513 Billion"
+    },
+    {
+        "country": "Tanzania",
+        "countryCode": "255",
+        "isoCodes": "TZ / TZA",
+        "population": "41,892,895",
+        "areaKM2": "945,087",
+        "gdpUSD": "31.94 Billion"
+    },
+    {
+        "country": "Thailand",
+        "countryCode": "66",
+        "isoCodes": "TH / THA",
+        "population": "67,089,500",
+        "areaKM2": "514,000",
+        "gdpUSD": "400.9 Billion"
+    },
+    {
+        "country": "Togo",
+        "countryCode": "228",
+        "isoCodes": "TG / TGO",
+        "population": "6,587,239",
+        "areaKM2": "56,785",
+        "gdpUSD": "4.299 Billion"
+    },
+    {
+        "country": "Tokelau",
+        "countryCode": "690",
+        "isoCodes": "TK / TKL",
+        "population": "1,466",
+        "areaKM2": "10"
+    },
+    {
+        "country": "Tonga",
+        "countryCode": "676",
+        "isoCodes": "TO / TON",
+        "population": "122,580",
+        "areaKM2": "748",
+        "gdpUSD": "477 Million"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "countryCode": "1-868",
+        "isoCodes": "TT / TTO",
+        "population": "1,228,691",
+        "areaKM2": "5,128",
+        "gdpUSD": "27.13 Billion"
+    },
+    {
+        "country": "Tunisia",
+        "countryCode": "216",
+        "isoCodes": "TN / TUN",
+        "population": "10,589,025",
+        "areaKM2": "163,610",
+        "gdpUSD": "48.38 Billion"
+    },
+    {
+        "country": "Turkey",
+        "countryCode": "90",
+        "isoCodes": "TR / TUR",
+        "population": "77,804,122",
+        "areaKM2": "780,580",
+        "gdpUSD": "821.8 Billion"
+    },
+    {
+        "country": "Turkmenistan",
+        "countryCode": "993",
+        "isoCodes": "TM / TKM",
+        "population": "4,940,916",
+        "areaKM2": "488,100",
+        "gdpUSD": "40.56 Billion"
+    },
+    {
+        "country": "Turks and Caicos Islands",
+        "countryCode": "1-649",
+        "isoCodes": "TC / TCA",
+        "population": "20,556",
+        "areaKM2": "430"
+    },
+    {
+        "country": "Tuvalu",
+        "countryCode": "688",
+        "isoCodes": "TV / TUV",
+        "population": "10,472",
+        "areaKM2": "26",
+        "gdpUSD": "38 Million"
+    },
+    {
+        "country": "United Arab Emirates",
+        "countryCode": "971",
+        "isoCodes": "AE / ARE",
+        "population": "4,975,593",
+        "areaKM2": "82,880",
+        "gdpUSD": "390 Billion"
+    },
+    {
+        "country": "Uganda",
+        "countryCode": "256",
+        "isoCodes": "UG / UGA",
+        "population": "33,398,682",
+        "areaKM2": "236,040",
+        "gdpUSD": "22.6 Billion"
+    },
+    {
+        "country": "United Kingdom",
+        "countryCode": "44",
+        "isoCodes": "GB / GBR",
+        "population": "62,348,447",
+        "areaKM2": "244,820",
+        "gdpUSD": "2.49 Trillion"
+    },
+    {
+        "country": "Ukraine",
+        "countryCode": "380",
+        "isoCodes": "UA / UKR",
+        "population": "45,415,596",
+        "areaKM2": "603,700",
+        "gdpUSD": "175.5 Billion"
+    },
+    {
+        "country": "Uruguay",
+        "countryCode": "598",
+        "isoCodes": "UY / URY",
+        "population": "3,477,000",
+        "areaKM2": "176,220",
+        "gdpUSD": "57.11 Billion"
+    },
+    {
+        "country": "United States",
+        "countryCode": "1",
+        "isoCodes": "US / USA",
+        "population": "310,232,863",
+        "areaKM2": "9,629,091",
+        "gdpUSD": "16.72 Trillion"
+    },
+    {
+        "country": "Uzbekistan",
+        "countryCode": "998",
+        "isoCodes": "UZ / UZB",
+        "population": "27,865,738",
+        "areaKM2": "447,400",
+        "gdpUSD": "55.18 Billion"
+    },
+    {
+        "country": "Vanuatu",
+        "countryCode": "678",
+        "isoCodes": "VU / VUT",
+        "population": "221,552",
+        "areaKM2": "12,200",
+        "gdpUSD": "828 Million"
+    },
+    {
+        "country": "Vatican",
+        "countryCode": "379",
+        "isoCodes": "VA / VAT",
+        "population": "921",
+        "areaKM2": "0"
+    },
+    {
+        "country": "Venezuela",
+        "countryCode": "58",
+        "isoCodes": "VE / VEN",
+        "population": "27,223,228",
+        "areaKM2": "912,050",
+        "gdpUSD": "367.5 Billion"
+    },
+    {
+        "country": "Vietnam",
+        "countryCode": "84",
+        "isoCodes": "VN / VNM",
+        "population": "89,571,130",
+        "areaKM2": "329,560",
+        "gdpUSD": "170 Billion"
+    },
+    {
+        "country": "U.S. Virgin Islands",
+        "countryCode": "1-340",
+        "isoCodes": "VI / VIR",
+        "population": "108,708",
+        "areaKM2": "352"
+    },
+    {
+        "country": "Wallis and Futuna",
+        "countryCode": "681",
+        "isoCodes": "WF / WLF",
+        "population": "16,025",
+        "areaKM2": "274"
+    },
+    {
+        "country": "Western Sahara",
+        "countryCode": "212",
+        "isoCodes": "EH / ESH",
+        "population": "273,008",
+        "areaKM2": "266,000"
+    },
+    {
+        "country": "Yemen",
+        "countryCode": "967",
+        "isoCodes": "YE / YEM",
+        "population": "23,495,361",
+        "areaKM2": "527,970",
+        "gdpUSD": "43.89 Billion"
+    },
+    {
+        "country": "Zambia",
+        "countryCode": "260",
+        "isoCodes": "ZM / ZMB",
+        "population": "13,460,305",
+        "areaKM2": "752,614",
+        "gdpUSD": "22.24 Billion"
+    },
+    {
+        "country": "Zimbabwe",
+        "countryCode": "263",
+        "isoCodes": "ZW / ZWE",
+        "population": "11,651,858",
+        "areaKM2": "390,580",
+        "gdpUSD": "10.48 Billion"
+    }
+]
