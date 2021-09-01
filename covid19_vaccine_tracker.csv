@@ -1,87 +1,93 @@
-Name,Vaccine Type,Primary Developers,Trial Phase,Institution
-ARCoV,mRNA-based vaccine,"Walvax Biotechnology Co., Ltd.; Abogen Biosciences Co. Ltd.; Yuxi Walvax Biotechnology Co., Ltd.",Phase 3,Xiangfen CDC,
-NVX-CoV2373,Nanoparticle vaccine,Novavax,Phase 3,Novavax,
-ZyCoV-D,DNA vaccine (plasmid),Zydus Cadila,Phase 3,Zydus Cadila,
-Abdala (CIGB 66),Protein subunit vaccine,Center for Genetic Engineering and Biotechnology,Phase 3,Center for Genetic Engineering and Biotechnology,
-Unnamed vaccine candidate,Plant-based adjuvant vaccine,Medicago; GSK; Dynavax,Phase 3,Medicago,
-VLA2001,Inactivated vaccine,Valneva;UK National Institute for Health Research,Phase 3,Multiple NIHR testing sites,
-No name announced,Adjuvanted protein subunit vaccine,"Biological E, Baylor College of Medicine, Dynavax, CEPI",Phase 3,Various,
-No name announced,Recombinant protein vaccine,Sanofi; GlaxoSmithKline,Phase 3,Various,
-Nanocovax,Recombinant vaccine (Spike protein),Nanogen Biopharmaceutical,Phase 3,Military Medical Academy (Vietnam),
-CVnCoV,mRNA-based vaccine,CureVac; GSK,Phase 2b/3,CureVac,
-Bacillus Calmette-Guerin (BCG) vaccine,Live-attenuated vaccine,University of Melbourne and Murdoch Children’s Research Institute; Radboud University Medical Center; Faustman Lab at Massachusetts General Hospital,Phase 2/3,University of Melbourne and Murdoch Children’s Research Institute; Radboud University Medical Center; Faustman Lab at Massachusetts General Hospital,
-INO-4800,DNA vaccine (plasmid),Inovio Pharmaceuticals; Advaccine,Phase 2/3,"Center for Pharmaceutical Research, Kansas City. Mo.; University of Pennsylvania, Philadelphia",
-No name announced,Adenovirus-based vaccine,ImmunityBio; NantKwest,Phase 2/3,,
-UB-612,Multitope peptide-based vaccine,Vaxxinity,Phase 2/3,United Biomedical Inc. (UBI),
-GRAd-COV2,Adenovirus-based vaccine,ReiThera; Leukocare; Univercells,Phase 2/3,Lazzaro Spallanzani National Institute for Infectious Diseases,
-SCB-2019,Protein subunit vaccine,"GlaxoSmithKline, Sanofi, Clover Biopharmaceuticals, Dynavax and Xiamen Innovax; CEPI",Phase 2/3,Linear Clinical Research (Australia),
-V-01,Recombinant protein vaccine,"Guangdong Provincial Center for Disease Control and Prevention; Gaozhou Municipal Center for Disease Control and Prevention; Zhuhai Livzonumab Biotechnology Co., Ltd.",Phase 2,Livzon Mabpharm Inc.,
-Razi Cov Pars,Recombinant vaccine (Spike protein),Razi Vaccine and Serum Research Institute,Phase 2,Tehran Rasoul Akram Hospital,
-Unnamed vaccine candidate,Recombinant vaccine (CHO cells),"Jiangsu Province Centers for Disease Control and Prevention; Academy of Military Medical Sciences; Zhongyianke Biotech Co, Ltd.; Liaoningmaokangyuan Biotech Co, Ltd",Phase 2,Jiangsu Province Centers for Disease Control and Prevention,
-COVAX-19,Monovalent recombinant protein vaccine,Vaxine Pty Ltd.; CinnaGen,Phase 2,Royal Adelaide Hospital,
-BNT162,mRNA-based vaccine,"Pfizer, BioNTech",Phase 1/2/3,"Multiple study sites in Europe, North America and China",
-Soberana 1 and 2,Monovalent/conjugate vaccine,Finlay Institute of Vaccines,Phase 1/2/3,Finlay Institute of Vaccines,
-AdCLD-CoV19,Adenovirus-based vaccine,Cellid; LG Chem,Phase 1/2a,Korea University Guro Hospital,
-QazCoVac-P,Protein subunit vaccine,Research Institute for Biological Safety Problems,Phase 1/2,Research Institute for Biological Safety Problems,
-DelNS1-nCoV-RBD LAIV,Intranasal vaccine,Xiamen University; University of Hong Kong; Beijing Wantai Biological Pharmacy; CEPI,Phase 1/2,HKU Phase 1 Clinical Trials Centre,
-IVX-411,Virus-like particle vaccine,"Icosavax, Inc.; Bill & Melinda Gates Foundation; Amgen; Seqirus",Phase 1/2,,
-KD-414,Inactivated vaccine,KM Biologics; Japan Agency for Medical Research and Development,Phase 1/2,,
-Unnamed vaccine candidate,Recombinant vaccine (CHO cells),"National Vaccine and Serum Institute; Lanzhou Institute of Biological Products Co., Ltd; Beijing Zhong Sheng Heng Yi Pharmaceutical Technology Co., Ltd.; Zhengzhou University",Phase 1/2,Ning ling Center for Disease Control and Prevention,
-VBI-2902a,Virus-like particle vaccine (enveloped),VBI Vaccines Inc.,Phase 1/2,Various,
-COVID-eVax,DNA vaccine (plasmid),Takis; Rottapharm Biotech,Phase 1/2,Various sites in Italy,
-S-268019,Recombinant protein vaccine,"Shionogi & Co., Ltd; Japan Agency for Medical Research and Development",Phase 1/2,,
-GLS-5310,DNA vaccine,"GeneOne Life Science, Inc.",Phase 1/2,Korea University Guro Hospital,
-Covigenix VAX-001,DNA vaccine (plasmid),"Entos Pharmaceuticals Inc.; Aegis Life, Inc.; Canadian Institutes of Health Research (CIHR)",Phase 1/2,"Canadian Centre for Vaccinology, Dalhousie University",
-Unnamed vaccine candidate,Synthetic minigene vaccine,Shenzhen Geno-Immune Medical Institute; Shenzhen Third People's Hospital; Shenzhen Second People's Hospital,Phase 1/2,Shenzhen Geno-immune Medical Institute,
-EXG-5003,Intradermal vaccine candidate,"Fujita Health University; Elixirgen Therapeutics, Inc.",Phase 1/2,Fujita Health University Hospital,
-AKS-452,Protein subunit vaccine,University Medical Center Groningen; Akston Biosciences,Phase 1/2,University Medical Center Groningen,
-DS-5670a,mRNA-based vaccine,"Daiichi Sankyo Co., Ltd.",Phase 1/2,SouseikaiHakata Clinic,
-ABNCoV2,cVLP-based vaccine,ExpreS2ion Biotech; Bavarian Nordic A/S,Phase 1/2,,
-EuCorVac-19,nanoparticle vaccine,EuBiologics,Phase 1/2,Eunpyeong St. Mary’s Hospital,
-Mambisa (CIGB 669),Protein subunit vaccine,Center for Genetic Engineering and Biotechnology,Phase 1/2,Center for Genetic Engineering and Biotechnology,
-IIBR-100,Recombinant vesicular stomatitis virus (rVSV) vaccine,Israel Institute for Biological Research,Phase 1/2,Hadassah Medical Center; Sheba Medical Center Hospital,
-No name announced,SF9 cell vaccine candidate,"West China Hospital, Sichuan University",Phase 1/2,"West China Hospital, Sichuan University",
-AG0301-COVID19,DNA vaccine,"AnGes, Inc.",Phase 1/2,"AnGes, Inc.; Japan Agency for Medical Research and Development",
-GX-19N,DNA vaccine,Genexine,Phase 1/2,,
-ARCT-021 (LUNAR-COV19),Self-replicating RNA vaccine,Arcturus Therapeutics and Duke-NUS Medical School,Phase 1/2,"Duke-NUS Medical School, Singapore",
-HDT-301 (HGCO19),RNA vaccine,University of Washington; National Institutes of Health Rocky Mountain Laboratories; HDT Bio Corp; Gennova Biopharmaceuticals,Phase 1/2,,
-MRT5500,mRNA-based vaccine,"Sanofi, Translate Bio",Phase 1/2,,
-AV-COVID-19,Dendritic cell vaccine,"Aivita Biomedical, Inc.",Phase 1b/2,Rumah Sakit Umum Pusat Dr Kariadi,
-Unnamed vaccine candidate,Recombinant Newcastle disease virus vectored vaccine,"Laboratorio Avi-Mex, S.A. de C.V.; National Council of Science and Technology, Mexico",Phase 1,Hospital Medica Sur,
-Unnamed vaccine candidate,mRNA-based vaccine,Shanghai Municipal Science and Technology Commission; Stemirna Therapeutics,Phase 1,Shulan (Hangzhou) Hospital,
-FAKHRAVAC (MIVAC),Inactivated vaccine,The Stem Cell Technology Research Center; Organization of Defensive Innovation and Research,Phase 1,Fakhra Clinical Trial Center,
-Unnamed vaccine candidate,ChAdV68 serotype; self-amplifying mRNA vaccine,"Gritstone Oncology, Inc.; NIAID",Phase 1,Various,
-NBP2001,Recombinant protein vaccine,"SK Bioscience Co., Ltd.",Phase 1,Seoul National University Bundang Hospital; Seoul National University Hospital,
-Unnamed vaccine candidate,Artificial antigen presenting cell (aAPC) vaccine,Shenzhen Geno-Immune Medical Institute; Shenzhen Third People's Hospital; Shenzhen Second People's Hospital,Phase 1,Shenzhen Geno-immune Medical Institute,
-BBV154,Intranasal vaccine,Bharat Biotech,Phase 1,Various,
-Unnamed vaccine candidate,Inactivated vaccine,The Scientific and Technological Research Council of Turkey; VETAL Inc.; MonitorCRO,Phase 1,Ankara City Hospital Phase I Drug Research Center,
-Unnamed vaccine candidate,Inactivated vaccine,Kocak Farma,Phase 1,Yeditepe AR-GE ve Analiz Merkezi İyi Klinik Uygulamaları Merkezi (Center for GCP),
-Unnamed vaccine candidate,Virus-like particle vaccine,The Scientific and Technological Research Council of Turkey; Dr Abdurrahman Yurtaslan Ankara Oncology Training and Research Hospital; MonitorCRO; Nobel Pharmaceuticals,Phase 1,Dr. Abdurahman Yurtaslan Ankara Oncology Training and Research Hospital Phase I Clinical Study Center,
-SpFN,Spike ferritin nanoparticle vaccine,US Army Medical Research and Development Command,Phase 1,Walter Reed Army Institute of Research,
-KBP-201,Protein subunit vaccine,"Kentucky BioProcessing, Inc.",Phase 1,Velocity Clinical Research; PMG Research of Winston-Salem; ICON; DM Clinical Research,
-MV-014-212,Intranasal vaccine,"Meissa Vaccines, Inc.",Phase 1,Johnson County Clin-Trials; Meridian Clinical Research,
-PTX-COVID19-B,mRNA-based vaccine,Providence Therapeutics; Canadian government,Phase 1,,
-COVI-VAC,Intranasal vaccine,Codagenix; Serum Institute of India,Phase 1,,
-CORVax12,DNA vaccine (plasmid),OncoSec; Providence Cancer Institute,Phase 1,Providence Portland Medical Center,
-MVA-SARS-2-S,Modified vaccinia virus ankara (MVA) vector vaccine candidate,Universitätsklinikum Hamburg-Eppendorf; German Center for Infection Research; Philipps University Marburg Medical Center; Ludwig-Maximilians - University of Munich,Phase 1,University Medical Center Hamburg-Eppendorf,
-COH04S1,Modified vaccinia virus ankara (MVA) vector vaccine candidate,City of Hope Medical Center; National Cancer Institute,Phase 1,City of Hope Medical Center,
-pVAC,Multi-peptide vaccine candidate,University Hospital Tuebingen,Phase 1,University Hospital Tuebingen,
-AdimrSC-2f,Protein subunit vaccine,Adimmune,Phase 1,Adimmune,
-bacTRL-Spike,Monovalent oral vaccine (bifidobacteria),Symvivo,Phase 1,Symvivo Corporation,
-DelNS1-2019-nCoV-RBD-OPT1,Replicating viral vector,"Xiamen University, Beijing Wantai Biological Pharmacy",Phase 1,Jiangsu Provincial Centre For Disease Control and Prevention,
-UQ-CSL V451,Protein subunit vaccine,CSL; The University of Queensland,Phase 1,,
-VXA-CoV2-1,Recombinant vaccine (adenovirus type 5 vector),Vaxart,Phase 1,Vaxart,
-AdCOVID,Intranasal vaccine,Altimmune; Summit Biosciences,Phase 1,University of Alabama at Birmingham,
-COVAC-2,Protein subunit vaccine,University of Saskatchewan Vaccine and Infectious Disease Organization-International Vaccine Centre,Phase 1,University of Saskatchewan Vaccine and Infectious Disease Organization-International Vaccine Centre,
-AAVCOVID,Gene-based vaccine,Massachusetts Eye and Ear; Massachusetts General Hospital; University of Pennsylvania,Pre-clinical,,
-ChAd-SARS-CoV-2-S,Adenovirus-based vaccine,Washington University School of Medicine in St. Louis,Pre-clinical,Washington University School of Medicine in St. Louis,
-HaloVax,Self-assembling vaccine,"Voltron Therapeutics, Inc.; Hoth Therapeutics, Inc.",Pre-clinical,MGH Vaccine and Immunotherapy Center,
-LineaDNA,DNA vaccine,Takis Biotech,Pre-clinical,Takis Biotech,
-No name announced,Ii-Key peptide COVID-19 vaccine,"Generex Biotechnology; Beijing Youfeng Biological Technology, Ltd",Pre-clinical,Generex,
-No name announced,mRNA-based vaccine,Chulalongkorn University’s Center of Excellence in Vaccine Research and Development,Pre-clinical,,
-No name announced,gp96-based vaccine,Heat Biologics,Pre-clinical,University of Miami Miller School of Medicine,
-PittCoVacc,Recombinant protein subunit vaccine (delivered through microneedle array),UPMC/University of Pittsburgh School of Medicine,Pre-clinical,University of Pittsburgh,
-T-COVIDTM,Intranasal vaccine,Altimmune,Pre-clinical,,
-LNP-nCoVsaRNA,Self-amplifying RNA vaccine,Imperial College London,No longer being studied,Imperial College London,
-V590,Recombinant vaccine (vesicular stomatitis virus),Merck; IAVI,No longer being studied,,
-V591,Measles vector vaccine,University of Pittsburgh’s Center for Vaccine Research,No longer being studied,"University of Pittsburgh; Themis Biosciences; Institut Pasteur""",
+﻿Name,Vaccine Type,Primary Developers,Trial Phase,Institution
+Unnamed vaccine candidate,Recombinant vaccine (Sf9 cells),"WestVac Biopharma Co., Ltd.; West China Hospital; Sichuan University; ",Phase 3,Jiangsu Province Centers for Disease Control and Prevention
+ARCoV,mRNA-based vaccine,"Walvax Biotechnology Co., Ltd.; Abogen Biosciences Co. Ltd.; Yuxi Walvax Biotechnology Co., Ltd.",Phase 3,Xiangfen CDC
+NVX-CoV2373,Nanoparticle vaccine,Novavax,Phase 3,Novavax
+ZyCoV-D,DNA vaccine (plasmid),Zydus Cadila,Phase 3,Zydus Cadila
+Unnamed vaccine candidate,Plant-based adjuvant vaccine ,Medicago; GSK; Dynavax,Phase 3,Medicago
+VLA2001,Inactivated vaccine,Valneva; UK National Institute for Health Research,Phase 3,Multiple NIHR testing sites
+Corbevax,Adjuvanted protein subunit vaccine,"Biological E, Baylor College of Medicine, Dynavax, CEPI",Phase 3,Various
+Vidprevtyn,Recombinant protein vaccine,Sanofi; GlaxoSmithKline,Phase 3,Various
+Nanocovax,Recombinant vaccine (Spike protein),Nanogen Biopharmaceutical,Phase 3,Military Medical Academy (Vietnam)
+CVnCoV,mRNA-based vaccine,CureVac; GSK,Phase 2b/3,CureVac
+Bacillus Calmette-Guerin (BCG) vaccine,Live-attenuated vaccine,University of Melbourne and Murdoch Children&rsquo;s Research Institute; Radboud University Medical Center; Faustman Lab at Massachusetts General Hospital,Phase 2/3,University of Melbourne and Murdoch Children&rsquo;s Research Institute; Radboud University Medical Center Faustman Lab at Massachusetts General Hospital
+INO-4800,DNA vaccine (plasmid),Inovio  Pharmaceuticals; Advaccine,Phase 2/3,"Center for Pharmaceutical Research, Kansas City. Mo.; University of Pennsylvania, Philadelphia"
+No name announced,Adenovirus-based vaccine,ImmunityBio; NantKwest,Phase 2/3,
+UB-612,Multitope peptide-based vaccine,Vaxxinity,Phase 2/3,United Biomedical Inc. (UBI)
+GRAd-COV2,Adenovirus-based vaccine,ReiThera; Leukocare; Univercells,Phase 2/3,Lazzaro Spallanzani National Institute for Infectious Diseases
+SCB-2019,Protein subunit vaccine,"GlaxoSmithKline; Sanofi; Clover Biopharmaceuticals, Dynavax;and Xiamen Innovax; CEPI",Phase 2/3,Linear Clinical Research (Australia)
+V-01,Recombinant protein vaccine,"Guangdong Provincial Center for Disease Control and Prevention; Gaozhou Municipal Center for Disease Control and Prevention; Zhuhai Livzonumab Biotechnology Co., Ltd.",Phase 2,Livzon Mabpharm Inc.
+Razi Cov Pars,Recombinant vaccine (Spike protein),Razi Vaccine and Serum Research Institute,Phase 2,Tehran Rasoul Akram Hospital
+Unnamed vaccine candidate,Recombinant vaccine (CHO cells),"Jiangsu Province Centers for Disease Control and Prevention; Academy of Military Medical Sciences; Zhongyianke Biotech Co, Ltd.; Liaoningmaokangyuan Biotech Co, Ltd",Phase 2,Jiangsu Province Centers for Disease Control and Prevention
+COVAX-19,Monovalent recombinant protein vaccine,Vaxine Pty Ltd.; CinnaGen,Phase 2,Royal Adelaide Hospital
+Unnamed vaccine candidate,Virus-like particle vaccine,The Scientific and Technological Research Council of Turkey; Dr Abdurrahman Yurtaslan Ankara Oncology Training and Research Hospital; MonitorCRO; Nobel Pharmaceuticals,Phase 2,Dr. Abdurahman Yurtaslan Ankara Oncology Training and Research Hospital Phase I Clinical Study Center
+COH04S1,Modified vaccinia virus ankara (MVA) vector vaccine candidate,City of Hope Medical Center; National Cancer Institute,Phase 2,City of Hope Medical Center
+BNT162,mRNA-based vaccine,"Pfizer, BioNTech",Phase 1/2/3,"Multiple study sites in Europe, North America and China"
+AdCLD-CoV19,Adenovirus-based vaccine,Cellid; LG Chem,Phase 1/2a,Korea University Guro Hospital
+GBP510,..,"SK bioscience Co., Ltd.; GSK; University of Washington; CEPI",Phase 1/2,Various
+Soberana 1,Monovalent/conjugate vaccine,Finlay Institute of Vaccines,Phase 1/2,Finlay Institute of Vaccines
+QazCoVac-P,Protein subunit vaccine,Research Institute for Biological Safety Problems,Phase 1/2,Research Institute for Biological Safety Problems
+DelNS1-nCoV-RBD LAIV,Intranasal vaccine,"Xiamen University; University of Hong Kong; Beijing Wantai Biological Pharmacy; <a href=""https://cepi.net/"">CEPI</a>",Phase 1/2,HKU Phase 1 Clinical Trials Centre
+IVX-411,Virus-like particle vaccine,"Icosavax, Inc.; Bill & Melinda Gates Foundation; Amgen; Seqirus",Phase 1/2,
+KD-414,Inactivated vaccine,KM Biologics; Japan Agency for Medical Research and Development,Phase 1/2,
+Unnamed vaccine candidate,Recombinant vaccine (CHO cells),"National Vaccine and Serum Institute; Lanzhou Institute of Biological Products Co., Ltd; Beijing Zhong Sheng Heng Yi Pharmaceutical Technology Co., Ltd.; Zhengzhou University",Phase 1/2,Ning ling Center for Disease Control and Prevention
+VBI-2902a,Virus-like particle vaccine (enveloped),VBI Vaccines Inc.,Phase 1/2,Various
+COVID-eVax,DNA vaccine (plasmid),Takis; Rottapharm Biotech,Phase 1/2,Various sites in Italy
+S-268019,Recombinant protein vaccine,"Shionogi & Co., Ltd; Japan Agency for Medical Research and Development",Phase 1/2,
+GLS-5310,DNA vaccine,"GeneOne Life Science, Inc.",Phase 1/2,Korea University Guro Hospital
+Covigenix VAX-001,DNA vaccine (plasmid),"Entos Pharmaceuticals Inc.; Aegis Life, Inc.; Canadian Institutes of Health Research (CIHR)",Phase 1/2,"Canadian Centre for Vaccinology, Dalhousie University"
+Unnamed vaccine candidate,Synthetic minigene vaccine,Shenzhen Geno-Immune Medical Institute; Shenzhen Third People's Hospital; Shenzhen Second People's Hospital,Phase 1/2,Shenzhen Geno-immune Medical Institute
+EXG-5003,Intradermal vaccine candidate,"Fujita Health University; Elixirgen Therapeutics, Inc.",Phase 1/2,Fujita Health University Hospital
+AKS-452,Protein subunit vaccine,University Medical Center Groningen; Akston Biosciences,Phase 1/2,University Medical Center Groningen
+DS-5670a,mRNA-based vaccine,"Daiichi Sankyo Co., Ltd.",Phase 1/2,SouseikaiHakata Clinic
+ABNCoV2,cVLP-based vaccine,ExpreS2ion Biotech; Bavarian Nordic A/S,Phase 1/2,
+EuCorVac-19,nanoparticle vaccine,"<a href=""http://www.eubiologics.com/en/main/"">EuBiologics</a>",Phase 1/2,Eunpyeong St. Mary’s Hospital
+Mambisa (CIGB 669),Protein subunit vaccine,Center for Genetic Engineering and Biotechnology,Phase 1/2,Center for Genetic Engineering and Biotechnology
+IIBR-100,Recombinant vesicular stomatitis virus (rVSV) vaccine,Israel Institute for Biological Research,Phase 1/2,Hadassah Medical Center; Sheba Medical Center Hospital
+No name announced,SF9 cell vaccine candidate,"West China Hospital, Sichuan University",Phase 1/2,"West China Hospital, Sichuan University"
+AG0301-COVID19,DNA vaccine,"AnGes, Inc.",Phase 1/2,"AnGes, Inc.; Japan Agency for Medical Research and Development"
+GX-19N,DNA vaccine,Genexine,Phase 1/2,
+ARCT-021 (LUNAR-COV19),Self-replicating RNA vaccine,Arcturus Therapeutics; Duke-NUS Medical School,Phase 1/2,"Duke-NUS Medical School, Singapore"
+HDT-301 (HGCO19),RNA vaccine ,University of Washington; National Institutes of Health Rocky Mountain Laboratories; HDT Bio Corp; Gennova Biopharmaceuticals,Phase 1/2,
+MRT5500,mRNA-based vaccine,"Sanofi, Translate Bio",Phase 1/2,
+AV-COVID-19,Dendritic cell vaccine,"Aivita Biomedical, Inc.",Phase 1b/2,Rumah Sakit Umum Pusat Dr Kariadi
+Unnamed vaccine candidate,Recombinant protein vaccine,"Laboratorios Hipra, S.A.",Phase 1,Hospital Clínic de Barcelona; Hospital Universitari Dr. Josep Trueta
+202-CoV,Recombinant vaccine (CHO cells),Shanghai Zerun Biotechnology,Phase 1,Xiangcheng Center for Disease Control and Prevention
+CoVepiT,Multivariant COVID-19 vaccine,OSE Immunotherapeutics,Phase 1,Center for Vaccinology (CEVAC)
+ReCOV,Recombinant vaccine (CHO cells),Jiangsu Rec-Biotechnology Co.; IQVIA Pty Ltd,Phase 1,Auckland Clinical Studies
+SC-Ad6-1,Single cycle adenovirus vaccine,Tetherex Pharmaceuticals Corporation; Mayo Clinic,Phase 1,Tetherex Study Site
+Noora,Recombinant protein vaccine,Baqiyatallah University of Medical Sciences,Phase 1,
+Unnamed vaccine candidate,Recombinant Newcastle disease virus vectored vaccine,"Laboratorio Avi-Mex, S.A. de C.V.; National Council of Science and Technology, Mexico",Phase 1,Hospital Medica Sur
+Unnamed vaccine candidate,mRNA-based vaccine,Shanghai Municipal Science and Technology Commission; Stemirna Therapeutics,Phase 1,Shulan (Hangzhou) Hospital
+FAKHRAVAC (MIVAC),Inactivated vaccine,The Stem Cell Technology Research Center; Organization of Defensive Innovation and Research,Phase 1,Fakhra Clinical Trial Center
+Unnamed vaccine candidate,ChAdV68 serotype; self-amplifying mRNA vaccine,"Gritstone Oncology, Inc.; NIAID; CEPI",Phase 1,Various
+NBP2001,Recombinant protein vaccine,"SK Bioscience Co., Ltd.",Phase 1,Seoul National University Bundang Hospital; Seoul National University Hospital
+Unnamed vaccine candidate,Artificial antigen presenting cell (aAPC) vaccine,Shenzhen Geno-Immune Medical Institute; Shenzhen Third People's Hospital; Shenzhen Second People's Hospital,Phase 1,Shenzhen Geno-immune Medical Institute
+BBV154,Intranasal vaccine,Bharat Biotech,Phase 1,Various
+Unnamed vaccine candidate,Inactivated vaccine,The Scientific and Technological Research Council of Turkey; VETAL Inc.; MonitorCRO,Phase 1,Ankara City Hospital Phase I Drug Research Center
+Unnamed vaccine candidate,Inactivated vaccine,Kocak Farma,Phase 1,Yeditepe AR-GE ve Analiz Merkezi İyi Klinik Uygulamaları Merkezi (Center for GCP)
+SpFN,Spike ferritin nanoparticle vaccine,US Army Medical Research and Development Command,Phase 1,Walter Reed Army Institute of Research
+KBP-201,Protein subunit vaccine,"Kentucky BioProcessing, Inc.",Phase 1,Velocity Clinical Research; PMG Research of Winston-Salem; ICON; DM Clinical Research
+MV-014-212,Intranasal vaccine,"Meissa Vaccines, Inc.",Phase 1,Johnson County Clin-Trials; Meridian Clinical Research
+PTX-COVID19-B,mRNA-based vaccine,Providence Therapeutics; Canadian government,Phase 1,
+COVI-VAC,Intranasal vaccine,Codagenix; Serum Institute of India,Phase 1,
+CORVax12,DNA vaccine (plasmid),OncoSec; Providence Cancer Institute,Phase 1,Providence Portland Medical Center
+MVA-SARS-2-S,Modified vaccinia virus ankara (MVA) vector vaccine candidate,Universitätsklinikum Hamburg-Eppendorf; German Center for Infection Research; Philipps University Marburg Medical Center; Ludwig-Maximilians - University of Munich,Phase 1,University Medical Center Hamburg-Eppendorf
+pVAC,Multi-peptide vaccine candidate,University Hospital Tuebingen,Phase 1,University Hospital Tuebingen
+AdimrSC-2f,Protein subunit vaccine,Adimmune,Phase 1,Adimmune
+bacTRL-Spike,Monovalent oral vaccine (bifidobacteria),Symvivo,Phase 1,Symvivo Corporation
+DelNS1-2019-nCoV-RBD-OPT1,Replicating viral vector,"Xiamen University, Beijing Wantai Biological Pharmacy",Phase 1,Jiangsu Provincial Centre For Disease Control and Prevention
+UQ-CSL V451,Protein subunit vaccine,CSL; The University of Queensland,Phase 1,
+VXA-CoV2-1,Recombinant vaccine (adenovirus type 5 vector),Vaxart,Phase 1,Vaxart
+COVAC-2,Protein subunit vaccine,University of Saskatchewan Vaccine and Infectious Disease Organization-International Vaccine Centre,Phase 1,University of Saskatchewan Vaccine and Infectious Disease Organization-International Vaccine Centre
+AAVCOVID,Gene-based vaccine,Massachusetts Eye and Ear; Massachusetts General Hospital; University of Pennsylvania,Pre-clinical,
+ChAd-SARS-CoV-2-S,Adenovirus-based vaccine,Washington University School of Medicine in St. Louis,Pre-clinical,Washington University School of Medicine in St. Louis
+HaloVax,Self-assembling vaccine,"Voltron Therapeutics, Inc.; Hoth Therapeutics, Inc.",Pre-clinical,MGH Vaccine and Immunotherapy Center
+LineaDNA,DNA vaccine,Takis Biotech,Pre-clinical,Takis Biotech
+No name announced,Ii-Key peptide COVID-19 vaccine,"Generex Biotechnology; Beijing Youfeng Biological Technology, Ltd",Pre-clinical,Generex
+No name announced,mRNA-based vaccine,Chulalongkorn University’s Center of Excellence in Vaccine Research and Development,Pre-clinical,
+No name announced,gp96-based vaccine,Heat Biologics,Pre-clinical,University of Miami Miller School of Medicine
+PittCoVacc,Recombinant protein subunit vaccine (delivered through microneedle array),UPMC/University of Pittsburgh School of Medicine,Pre-clinical,University of Pittsburgh
+AdCOVID,Intranasal vaccine,Altimmune; Summit Biosciences,No longer being studied,University of Alabama at Birmingham
+LNP-nCoVsaRNA,Self-amplifying RNA vaccine,Imperial College London,No longer being studied,Imperial College London
+V590,Recombinant vaccine (vesicular stomatitis virus),Merck; IAVI,No longer being studied,
+V591,Measles vector vaccine,University of Pittsburgh’s Center for Vaccine Research,No longer being studied,University of Pittsburgh; Themis Biosciences; Institut Pasteur
