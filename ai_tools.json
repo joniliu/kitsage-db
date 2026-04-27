@@ -1,0 +1,818 @@
+[
+  {
+    "name": "ChatGPT",
+    "tagline": "The world's most popular AI chatbot for writing, research, and problem-solving",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://chat.openai.com",
+    "tags": ["chatbot", "writing", "research", "summarizer"]
+  },
+  {
+    "name": "Claude",
+    "tagline": "Anthropic's AI assistant — great for long documents, analysis, and safe reasoning",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://claude.ai",
+    "tags": ["chatbot", "writing", "analysis", "documents"]
+  },
+  {
+    "name": "Gemini",
+    "tagline": "Google's multimodal AI — works across text, images, and Google Workspace",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://gemini.google.com",
+    "tags": ["chatbot", "writing", "multimodal", "google"]
+  },
+  {
+    "name": "Jasper",
+    "tagline": "AI writing platform for marketing teams — blog posts, ads, social content",
+    "category": "writing",
+    "plan": "paid",
+    "url": "https://www.jasper.ai",
+    "tags": ["writing", "copywriting", "marketing", "blog"]
+  },
+  {
+    "name": "Copy.ai",
+    "tagline": "Generate high-converting marketing copy, product descriptions, and emails",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://www.copy.ai",
+    "tags": ["copywriting", "marketing", "email", "writing"]
+  },
+  {
+    "name": "Notion AI",
+    "tagline": "AI built into Notion — summarize, translate, and write inside your workspace",
+    "category": "writing",
+    "plan": "paid",
+    "url": "https://www.notion.so/product/ai",
+    "tags": ["writing", "productivity", "workspace", "summarizer"]
+  },
+  {
+    "name": "Perplexity",
+    "tagline": "AI-powered search engine that gives cited, up-to-date answers",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://www.perplexity.ai",
+    "tags": ["search", "research", "chatbot", "citations"]
+  },
+  {
+    "name": "Writesonic",
+    "tagline": "AI writer for SEO-optimized blog posts, ads, and landing pages at scale",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://writesonic.com",
+    "tags": ["writing", "SEO", "blog", "copywriting"]
+  },
+  {
+    "name": "Rytr",
+    "tagline": "Affordable AI writing assistant for emails, social posts, and short-form content",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://rytr.me",
+    "tags": ["writing", "email", "social media", "copywriting"]
+  },
+  {
+    "name": "Grammarly",
+    "tagline": "AI grammar, tone, and style checker — works across browsers and apps",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://www.grammarly.com",
+    "tags": ["writing", "grammar", "editing", "productivity"]
+  },
+  {
+    "name": "QuillBot",
+    "tagline": "Paraphrasing, summarizing, and grammar tools trusted by 35M+ students and writers",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://quillbot.com",
+    "tags": ["paraphraser", "summarizer", "writing", "students"]
+  },
+  {
+    "name": "Wordtune",
+    "tagline": "Rewrite and rephrase your sentences for clarity, tone, and impact",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://www.wordtune.com",
+    "tags": ["writing", "rewriting", "editing", "productivity"]
+  },
+  {
+    "name": "Sudowrite",
+    "tagline": "AI writing partner built for fiction writers — brainstorm, draft, and expand stories",
+    "category": "writing",
+    "plan": "paid",
+    "url": "https://www.sudowrite.com",
+    "tags": ["writing", "fiction", "storytelling", "creative writing"]
+  },
+  {
+    "name": "Character.ai",
+    "tagline": "Chat with AI personas of historical figures, fictional characters, or your own creations",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://character.ai",
+    "tags": ["chatbot", "roleplay", "entertainment", "creative writing"]
+  },
+  {
+    "name": "Anyword",
+    "tagline": "Predictive performance AI copywriting — scores your copy before you publish",
+    "category": "writing",
+    "plan": "paid",
+    "url": "https://anyword.com",
+    "tags": ["copywriting", "marketing", "performance", "SEO"]
+  },
+  {
+    "name": "Midjourney",
+    "tagline": "Industry-leading AI image generation via Discord — stunning artistic results",
+    "category": "image",
+    "plan": "paid",
+    "url": "https://www.midjourney.com",
+    "tags": ["image generation", "art", "design", "creative"]
+  },
+  {
+    "name": "DALL-E 3",
+    "tagline": "OpenAI's image generator — create any image from a text description",
+    "category": "image",
+    "plan": "paid",
+    "url": "https://openai.com/dall-e-3",
+    "tags": ["image generation", "art", "openai", "text-to-image"]
+  },
+  {
+    "name": "Stable Diffusion",
+    "tagline": "Open-source image generation model — run locally or via hosted platforms",
+    "category": "image",
+    "plan": "free",
+    "url": "https://stability.ai",
+    "tags": ["image generation", "open-source", "art", "text-to-image"]
+  },
+  {
+    "name": "Adobe Firefly",
+    "tagline": "Adobe's creative AI — generate and edit images safely for commercial use",
+    "category": "image",
+    "plan": "free",
+    "url": "https://firefly.adobe.com",
+    "tags": ["image generation", "design", "adobe", "commercial"]
+  },
+  {
+    "name": "Canva AI",
+    "tagline": "AI-powered design tools inside Canva — generate images, text, and presentations",
+    "category": "image",
+    "plan": "free",
+    "url": "https://www.canva.com/ai-image-generator",
+    "tags": ["design", "image generation", "presentations", "canva"]
+  },
+  {
+    "name": "Leonardo.ai",
+    "tagline": "Game-asset and concept-art focused AI image generation platform",
+    "category": "image",
+    "plan": "free",
+    "url": "https://leonardo.ai",
+    "tags": ["image generation", "game assets", "art", "concept art"]
+  },
+  {
+    "name": "Ideogram",
+    "tagline": "AI image generator with best-in-class text rendering inside images",
+    "category": "image",
+    "plan": "free",
+    "url": "https://ideogram.ai",
+    "tags": ["image generation", "text in image", "design", "creative"]
+  },
+  {
+    "name": "Playground AI",
+    "tagline": "Free image generator with a powerful canvas editor for mixing and editing AI art",
+    "category": "image",
+    "plan": "free",
+    "url": "https://playground.com",
+    "tags": ["image generation", "canvas", "art", "editing"]
+  },
+  {
+    "name": "Flux",
+    "tagline": "State-of-the-art open-weights image model by Black Forest Labs — fast and photorealistic",
+    "category": "image",
+    "plan": "free",
+    "url": "https://blackforestlabs.ai",
+    "tags": ["image generation", "open-source", "photorealistic", "text-to-image"]
+  },
+  {
+    "name": "Freepik AI",
+    "tagline": "Generate stock images, vectors, and mockups instantly from text prompts",
+    "category": "image",
+    "plan": "free",
+    "url": "https://www.freepik.com/ai",
+    "tags": ["image generation", "stock photos", "design", "vectors"]
+  },
+  {
+    "name": "Photoroom",
+    "tagline": "Remove backgrounds and create product photos with AI — used by 150M+ people",
+    "category": "image",
+    "plan": "free",
+    "url": "https://www.photoroom.com",
+    "tags": ["image editing", "background removal", "product photos", "e-commerce"]
+  },
+  {
+    "name": "Remove.bg",
+    "tagline": "Instantly remove image backgrounds with one click — 100% automatic AI",
+    "category": "image",
+    "plan": "free",
+    "url": "https://www.remove.bg",
+    "tags": ["image editing", "background removal", "design", "productivity"]
+  },
+  {
+    "name": "Lensa AI",
+    "tagline": "Turn your selfies into stunning AI art portraits and magic avatars",
+    "category": "image",
+    "plan": "paid",
+    "url": "https://prisma-ai.com/lensa",
+    "tags": ["avatars", "portraits", "image generation", "art"]
+  },
+  {
+    "name": "GitHub Copilot",
+    "tagline": "AI pair programmer by GitHub — autocomplete, explain, and generate code in your IDE",
+    "category": "code",
+    "plan": "paid",
+    "url": "https://github.com/features/copilot",
+    "tags": ["code", "autocomplete", "developer tools", "IDE"]
+  },
+  {
+    "name": "Cursor",
+    "tagline": "AI-first code editor built on VS Code — chat with your entire codebase",
+    "category": "code",
+    "plan": "free",
+    "url": "https://cursor.sh",
+    "tags": ["code", "IDE", "developer tools", "chat"]
+  },
+  {
+    "name": "Claude Code",
+    "tagline": "Anthropic's agentic coding CLI — write, edit, and reason about entire codebases",
+    "category": "code",
+    "plan": "paid",
+    "url": "https://claude.ai/code",
+    "tags": ["code", "CLI", "agentic", "developer tools"]
+  },
+  {
+    "name": "Tabnine",
+    "tagline": "AI code completion that runs locally — privacy-focused, works in any IDE",
+    "category": "code",
+    "plan": "free",
+    "url": "https://www.tabnine.com",
+    "tags": ["code", "autocomplete", "developer tools", "privacy"]
+  },
+  {
+    "name": "Codeium",
+    "tagline": "Free AI code completion and chat — supports 70+ languages and 40+ editors",
+    "category": "code",
+    "plan": "free",
+    "url": "https://codeium.com",
+    "tags": ["code", "autocomplete", "developer tools", "free"]
+  },
+  {
+    "name": "v0 by Vercel",
+    "tagline": "Generate React and Tailwind UI components from a text prompt",
+    "category": "code",
+    "plan": "free",
+    "url": "https://v0.dev",
+    "tags": ["code", "UI generation", "React", "frontend"]
+  },
+  {
+    "name": "Lovable",
+    "tagline": "Build full-stack web apps from a chat prompt — no coding required",
+    "category": "code",
+    "plan": "free",
+    "url": "https://lovable.dev",
+    "tags": ["code", "no-code", "web app", "full-stack"]
+  },
+  {
+    "name": "Windsurf",
+    "tagline": "Agentic IDE by Codeium — AI that plans, edits, and runs code end-to-end",
+    "category": "code",
+    "plan": "free",
+    "url": "https://codeium.com/windsurf",
+    "tags": ["code", "IDE", "agentic", "developer tools"]
+  },
+  {
+    "name": "Bolt.new",
+    "tagline": "Build and deploy full-stack apps in the browser with AI — zero setup",
+    "category": "code",
+    "plan": "free",
+    "url": "https://bolt.new",
+    "tags": ["code", "web app", "full-stack", "no-code"]
+  },
+  {
+    "name": "Replit AI",
+    "tagline": "AI coding assistant inside Replit — generate, debug, and deploy apps online",
+    "category": "code",
+    "plan": "free",
+    "url": "https://replit.com/ai",
+    "tags": ["code", "IDE", "developer tools", "deployment"]
+  },
+  {
+    "name": "Devin",
+    "tagline": "The first fully autonomous AI software engineer — plans and executes entire projects",
+    "category": "code",
+    "plan": "paid",
+    "url": "https://www.cognition.ai/devin",
+    "tags": ["code", "agentic", "autonomous", "developer tools"]
+  },
+  {
+    "name": "Continue",
+    "tagline": "Open-source AI code assistant — bring your own model to VS Code or JetBrains",
+    "category": "code",
+    "plan": "free",
+    "url": "https://www.continue.dev",
+    "tags": ["code", "open-source", "IDE", "developer tools"]
+  },
+  {
+    "name": "Amazon CodeWhisperer",
+    "tagline": "AWS's AI code companion — optimized for cloud and AWS SDK suggestions",
+    "category": "code",
+    "plan": "free",
+    "url": "https://aws.amazon.com/codewhisperer",
+    "tags": ["code", "autocomplete", "AWS", "cloud"]
+  },
+  {
+    "name": "Sora",
+    "tagline": "OpenAI's text-to-video model — generate cinematic video clips from prompts",
+    "category": "video",
+    "plan": "paid",
+    "url": "https://openai.com/sora",
+    "tags": ["video generation", "text-to-video", "openai", "creative"]
+  },
+  {
+    "name": "Runway",
+    "tagline": "Professional AI video editing and generation — used by Hollywood studios",
+    "category": "video",
+    "plan": "free",
+    "url": "https://runwayml.com",
+    "tags": ["video editing", "video generation", "creative", "professional"]
+  },
+  {
+    "name": "HeyGen",
+    "tagline": "Create AI avatar videos with realistic lip-sync in 175+ languages",
+    "category": "video",
+    "plan": "free",
+    "url": "https://www.heygen.com",
+    "tags": ["video generation", "avatar", "translation", "multilingual"]
+  },
+  {
+    "name": "Pika",
+    "tagline": "Turn images and text into short AI-generated video clips instantly",
+    "category": "video",
+    "plan": "free",
+    "url": "https://pika.art",
+    "tags": ["video generation", "text-to-video", "image-to-video", "creative"]
+  },
+  {
+    "name": "Kling AI",
+    "tagline": "Chinese-developed video generation model — rival to Sora, free credits daily",
+    "category": "video",
+    "plan": "free",
+    "url": "https://klingai.com",
+    "tags": ["video generation", "text-to-video", "image-to-video", "free"]
+  },
+  {
+    "name": "Synthesia",
+    "tagline": "Create professional training and explainer videos with AI avatars — no camera needed",
+    "category": "video",
+    "plan": "paid",
+    "url": "https://www.synthesia.io",
+    "tags": ["video generation", "avatar", "training videos", "business"]
+  },
+  {
+    "name": "Luma Dream Machine",
+    "tagline": "High-quality video generation from text and images — smooth, realistic motion",
+    "category": "video",
+    "plan": "free",
+    "url": "https://lumalabs.ai/dream-machine",
+    "tags": ["video generation", "text-to-video", "image-to-video", "realistic"]
+  },
+  {
+    "name": "Invideo AI",
+    "tagline": "Turn a script or idea into a polished video with stock footage and voiceover",
+    "category": "video",
+    "plan": "free",
+    "url": "https://invideo.io",
+    "tags": ["video creation", "stock footage", "voiceover", "marketing"]
+  },
+  {
+    "name": "Captions",
+    "tagline": "Auto-generate captions and edit videos with AI — popular for social media creators",
+    "category": "video",
+    "plan": "free",
+    "url": "https://www.captions.ai",
+    "tags": ["video editing", "captions", "social media", "creators"]
+  },
+  {
+    "name": "Opus Clip",
+    "tagline": "Repurpose long videos into viral short clips for TikTok, Reels, and YouTube Shorts",
+    "category": "video",
+    "plan": "free",
+    "url": "https://www.opus.pro",
+    "tags": ["video editing", "short clips", "social media", "repurposing"]
+  },
+  {
+    "name": "Vidyo.ai",
+    "tagline": "Auto-clip and caption long videos for social media in minutes",
+    "category": "video",
+    "plan": "free",
+    "url": "https://vidyo.ai",
+    "tags": ["video editing", "short clips", "social media", "captions"]
+  },
+  {
+    "name": "ElevenLabs",
+    "tagline": "Ultra-realistic AI voice generation and cloning — 29 languages, any emotion",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://elevenlabs.io",
+    "tags": ["text-to-speech", "voice cloning", "audio", "multilingual"]
+  },
+  {
+    "name": "Suno",
+    "tagline": "Generate full songs with lyrics and vocals from a short text prompt",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://suno.com",
+    "tags": ["music generation", "audio", "songwriting", "creative"]
+  },
+  {
+    "name": "Udio",
+    "tagline": "AI music generator — create studio-quality tracks in any genre",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://www.udio.com",
+    "tags": ["music generation", "audio", "creative", "genre"]
+  },
+  {
+    "name": "Whisper",
+    "tagline": "OpenAI's open-source speech-to-text model — highly accurate in 99 languages",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://openai.com/research/whisper",
+    "tags": ["transcription", "speech-to-text", "open-source", "multilingual"]
+  },
+  {
+    "name": "Descript",
+    "tagline": "Edit audio and video by editing the transcript — overdub, cut, and publish",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://www.descript.com",
+    "tags": ["audio editing", "video editing", "transcription", "podcast"]
+  },
+  {
+    "name": "Murf AI",
+    "tagline": "Studio-quality AI voiceovers in 120+ voices and 20 languages for any project",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://murf.ai",
+    "tags": ["text-to-speech", "voiceover", "audio", "multilingual"]
+  },
+  {
+    "name": "Adobe Podcast",
+    "tagline": "AI audio tools that enhance voice recordings and remove background noise instantly",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://podcast.adobe.com",
+    "tags": ["audio editing", "noise removal", "podcast", "voice enhancement"]
+  },
+  {
+    "name": "Otter.ai",
+    "tagline": "Real-time meeting transcription and AI summaries for Zoom, Teams, and Google Meet",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://otter.ai",
+    "tags": ["transcription", "meetings", "summaries", "productivity"]
+  },
+  {
+    "name": "Podcastle",
+    "tagline": "Browser-based podcast recording and AI editing — record, transcribe, and publish",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://podcastle.ai",
+    "tags": ["podcast", "audio editing", "transcription", "recording"]
+  },
+  {
+    "name": "Krisp",
+    "tagline": "AI noise-cancelling app that removes background sounds from any call in real time",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://krisp.ai",
+    "tags": ["noise cancellation", "audio", "meetings", "productivity"]
+  },
+  {
+    "name": "Boomy",
+    "tagline": "Create and release AI-generated music to Spotify and Apple Music in minutes",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://boomy.com",
+    "tags": ["music generation", "audio", "streaming", "royalties"]
+  },
+  {
+    "name": "Aiva",
+    "tagline": "AI music composer for film, games, and ads — royalty-free emotional soundtracks",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://www.aiva.ai",
+    "tags": ["music generation", "audio", "royalty-free", "film"]
+  },
+  {
+    "name": "Make (Integromat)",
+    "tagline": "Visual automation platform — connect apps and build workflows without code",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://www.make.com",
+    "tags": ["automation", "no-code", "workflow", "integrations"]
+  },
+  {
+    "name": "Zapier AI",
+    "tagline": "Automate tasks between 6,000+ apps using natural language instructions",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://zapier.com/ai",
+    "tags": ["automation", "workflow", "integrations", "no-code"]
+  },
+  {
+    "name": "Mem",
+    "tagline": "AI-powered note-taking app that auto-organizes and surfaces relevant notes",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://mem.ai",
+    "tags": ["notes", "productivity", "knowledge management", "AI search"]
+  },
+  {
+    "name": "Fireflies.ai",
+    "tagline": "AI meeting recorder that transcribes, summarizes, and searches your calls",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://fireflies.ai",
+    "tags": ["meetings", "transcription", "summaries", "productivity"]
+  },
+  {
+    "name": "Reclaim AI",
+    "tagline": "Smart calendar assistant that auto-schedules tasks, habits, and focus time",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://reclaim.ai",
+    "tags": ["calendar", "scheduling", "productivity", "time management"]
+  },
+  {
+    "name": "Gamma",
+    "tagline": "Create polished presentations, docs, and websites from a prompt in seconds",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://gamma.app",
+    "tags": ["presentations", "documents", "productivity", "design"]
+  },
+  {
+    "name": "Tome",
+    "tagline": "AI narrative builder — generate beautiful story-driven presentations instantly",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://tome.app",
+    "tags": ["presentations", "storytelling", "productivity", "design"]
+  },
+  {
+    "name": "Beautiful.ai",
+    "tagline": "Smart slide templates that auto-arrange and design themselves as you add content",
+    "category": "productivity",
+    "plan": "paid",
+    "url": "https://www.beautiful.ai",
+    "tags": ["presentations", "design", "productivity", "slides"]
+  },
+  {
+    "name": "Rows",
+    "tagline": "AI-powered spreadsheet that can import, analyze, and explain data in plain English",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://rows.com",
+    "tags": ["spreadsheets", "data analysis", "productivity", "no-code"]
+  },
+  {
+    "name": "Taskade",
+    "tagline": "AI project manager that generates tasks, outlines, and workflows from a prompt",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://www.taskade.com",
+    "tags": ["project management", "tasks", "productivity", "collaboration"]
+  },
+  {
+    "name": "Midjourney Describe",
+    "tagline": "Reverse-engineer any image into a detailed text prompt using AI",
+    "category": "image",
+    "plan": "paid",
+    "url": "https://www.midjourney.com",
+    "tags": ["image analysis", "prompt engineering", "design", "creative"]
+  },
+  {
+    "name": "Krea AI",
+    "tagline": "Real-time AI image generation canvas — draw a rough sketch and watch it render",
+    "category": "image",
+    "plan": "free",
+    "url": "https://www.krea.ai",
+    "tags": ["image generation", "real-time", "canvas", "creative"]
+  },
+  {
+    "name": "Magnific AI",
+    "tagline": "AI image upscaler that adds realistic detail — turn low-res into stunning 4K",
+    "category": "image",
+    "plan": "paid",
+    "url": "https://magnific.ai",
+    "tags": ["image editing", "upscaling", "enhancement", "4K"]
+  },
+  {
+    "name": "Poe",
+    "tagline": "One platform to access ChatGPT, Claude, Gemini, and 100+ AI bots in one place",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://poe.com",
+    "tags": ["chatbot", "multi-model", "writing", "research"]
+  },
+  {
+    "name": "Pi by Inflection",
+    "tagline": "Personal AI companion focused on empathetic conversation and emotional support",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://pi.ai",
+    "tags": ["chatbot", "personal assistant", "conversation", "wellness"]
+  },
+  {
+    "name": "Mistral",
+    "tagline": "Powerful open-weight language models — fast, efficient, and privacy-friendly",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://mistral.ai",
+    "tags": ["chatbot", "open-source", "writing", "research"]
+  },
+  {
+    "name": "Meta AI",
+    "tagline": "Meta's AI assistant built into Facebook, Instagram, and WhatsApp",
+    "category": "writing",
+    "plan": "free",
+    "url": "https://ai.meta.com",
+    "tags": ["chatbot", "social media", "writing", "meta"]
+  },
+  {
+    "name": "Grok",
+    "tagline": "xAI's witty chatbot with real-time X/Twitter data — less filtered, more direct",
+    "category": "writing",
+    "plan": "paid",
+    "url": "https://grok.x.ai",
+    "tags": ["chatbot", "real-time", "writing", "x/twitter"]
+  },
+  {
+    "name": "Cohere",
+    "tagline": "Enterprise-grade language models for search, summarization, and classification",
+    "category": "code",
+    "plan": "free",
+    "url": "https://cohere.com",
+    "tags": ["AI models", "enterprise", "NLP", "developer tools"]
+  },
+  {
+    "name": "Hugging Face",
+    "tagline": "The GitHub of AI — discover, share, and deploy open-source models and datasets",
+    "category": "code",
+    "plan": "free",
+    "url": "https://huggingface.co",
+    "tags": ["AI models", "open-source", "developer tools", "datasets"]
+  },
+  {
+    "name": "Replicate",
+    "tagline": "Run any open-source AI model via API — image, video, audio, and language models",
+    "category": "code",
+    "plan": "free",
+    "url": "https://replicate.com",
+    "tags": ["AI models", "API", "developer tools", "open-source"]
+  },
+  {
+    "name": "Langchain",
+    "tagline": "Framework for building LLM-powered apps — chains, agents, and RAG pipelines",
+    "category": "code",
+    "plan": "free",
+    "url": "https://www.langchain.com",
+    "tags": ["developer tools", "LLM", "framework", "agentic"]
+  },
+  {
+    "name": "Perplexity API",
+    "tagline": "Online LLM API with real-time web search built in — great for RAG applications",
+    "category": "code",
+    "plan": "paid",
+    "url": "https://docs.perplexity.ai",
+    "tags": ["API", "developer tools", "LLM", "search"]
+  },
+  {
+    "name": "Lottiefiles AI",
+    "tagline": "Generate and edit Lottie animations from a text description — no design skills needed",
+    "category": "image",
+    "plan": "free",
+    "url": "https://lottiefiles.com/ai",
+    "tags": ["animation", "design", "UI", "creative"]
+  },
+  {
+    "name": "Luma Genie",
+    "tagline": "Generate production-ready 3D assets from text prompts for games and AR/VR",
+    "category": "image",
+    "plan": "free",
+    "url": "https://lumalabs.ai/genie",
+    "tags": ["3D generation", "game assets", "AR/VR", "creative"]
+  },
+  {
+    "name": "D-ID",
+    "tagline": "Animate any portrait photo to speak — create digital people from a single image",
+    "category": "video",
+    "plan": "free",
+    "url": "https://www.d-id.com",
+    "tags": ["video generation", "avatar", "portrait animation", "digital human"]
+  },
+  {
+    "name": "Visla",
+    "tagline": "AI video maker that turns scripts and blog posts into narrated video stories",
+    "category": "video",
+    "plan": "free",
+    "url": "https://www.visla.us",
+    "tags": ["video creation", "script to video", "marketing", "education"]
+  },
+  {
+    "name": "Elai.io",
+    "tagline": "Build AI video courses and training content with avatar presenters at scale",
+    "category": "video",
+    "plan": "paid",
+    "url": "https://elai.io",
+    "tags": ["video generation", "e-learning", "avatar", "training videos"]
+  },
+  {
+    "name": "Fliki",
+    "tagline": "Turn text and blog posts into videos with AI voices and stock media",
+    "category": "video",
+    "plan": "free",
+    "url": "https://fliki.ai",
+    "tags": ["video creation", "text-to-video", "voiceover", "social media"]
+  },
+  {
+    "name": "Speechify",
+    "tagline": "Convert any text, PDF, or document into natural-sounding audio — listen on the go",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://speechify.com",
+    "tags": ["text-to-speech", "audiobooks", "accessibility", "productivity"]
+  },
+  {
+    "name": "Resemble AI",
+    "tagline": "Clone any voice in seconds and build custom speech synthesis into your app",
+    "category": "audio",
+    "plan": "paid",
+    "url": "https://www.resemble.ai",
+    "tags": ["voice cloning", "text-to-speech", "API", "developer tools"]
+  },
+  {
+    "name": "Loudly",
+    "tagline": "AI music generation for content creators — background tracks matched to your mood",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://www.loudly.com",
+    "tags": ["music generation", "background music", "content creators", "royalty-free"]
+  },
+  {
+    "name": "Cleanvoice AI",
+    "tagline": "Remove filler words, stutters, and mouth noises from podcast recordings automatically",
+    "category": "audio",
+    "plan": "paid",
+    "url": "https://cleanvoice.ai",
+    "tags": ["audio editing", "podcast", "noise removal", "productivity"]
+  },
+  {
+    "name": "Framer AI",
+    "tagline": "Describe your website and watch Framer build it — AI-powered web design tool",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://www.framer.com/ai",
+    "tags": ["website builder", "design", "no-code", "productivity"]
+  },
+  {
+    "name": "Wix AI",
+    "tagline": "Build a complete website with AI — answers a few questions, builds the whole site",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://www.wix.com/ai-website-builder",
+    "tags": ["website builder", "no-code", "productivity", "design"]
+  },
+  {
+    "name": "Namelix",
+    "tagline": "Generate short, brandable business names using AI — with logo suggestions",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://namelix.com",
+    "tags": ["business names", "branding", "startup tools", "creative"]
+  },
+  {
+    "name": "Looka",
+    "tagline": "AI logo maker and brand kit generator — professional identity in minutes",
+    "category": "productivity",
+    "plan": "paid",
+    "url": "https://looka.com",
+    "tags": ["logo design", "branding", "startup tools", "design"]
+  },
+  {
+    "name": "Mixo",
+    "tagline": "Launch a startup landing page from a one-sentence idea — no design or code needed",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://www.mixo.io",
+    "tags": ["website builder", "startup tools", "landing page", "no-code"]
+  }
+]
