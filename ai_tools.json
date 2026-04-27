@@ -814,5 +814,149 @@
     "plan": "free",
     "url": "https://www.mixo.io",
     "tags": ["website builder", "startup tools", "landing page", "no-code"]
+  },
+  {
+    "name": "Gemma",
+    "tagline": "Google's open-weight language models for on-device and research use cases",
+    "category": "code",
+    "plan": "free",
+    "url": "https://ai.google.dev/gemma",
+    "tags": ["open-source", "LLM", "research", "on-device"]
+  },
+  {
+    "name": "LM Studio",
+    "tagline": "Run open-source large language models locally on your Mac, Windows, or Linux machine",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://lmstudio.ai",
+    "tags": ["local LLM", "open-source", "privacy", "offline"]
+  },
+  {
+    "name": "Ollama",
+    "tagline": "Run Llama, Mistral, Gemma, and other open models locally with a simple CLI",
+    "category": "code",
+    "plan": "free",
+    "url": "https://ollama.com",
+    "tags": ["local LLM", "open-source", "CLI", "developer tools"]
+  },
+  {
+    "name": "Pika 2.0",
+    "tagline": "Next-generation AI video creation with cinematic effects and scene transitions",
+    "category": "video",
+    "plan": "free",
+    "url": "https://pika.art",
+    "tags": ["video generation", "text-to-video", "cinematic", "creative"]
+  },
+  {
+    "name": "Hailuo AI",
+    "tagline": "MiniMax's video generator producing high-quality, realistic clips from text or images",
+    "category": "video",
+    "plan": "free",
+    "url": "https://hailuoai.video",
+    "tags": ["video generation", "text-to-video", "realistic", "MiniMax"]
+  },
+  {
+    "name": "Hedra",
+    "tagline": "Create AI-generated talking avatar videos from a photo and audio clip",
+    "category": "video",
+    "plan": "free",
+    "url": "https://www.hedra.com",
+    "tags": ["avatar", "talking head", "video generation", "lip sync"]
+  },
+  {
+    "name": "NotebookLM",
+    "tagline": "Google's AI research assistant that reasons over your own documents and notes",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://notebooklm.google.com",
+    "tags": ["research", "summarizer", "document analysis", "Google"]
+  },
+  {
+    "name": "Napkin AI",
+    "tagline": "Turn text and ideas into clean diagrams, charts, and visual explainers instantly",
+    "category": "image",
+    "plan": "free",
+    "url": "https://www.napkin.ai",
+    "tags": ["diagrams", "visual explainer", "presentations", "no-code"]
+  },
+  {
+    "name": "Sesame",
+    "tagline": "Ultra-realistic AI voice conversations with natural turn-taking and emotional nuance",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://www.sesame.com",
+    "tags": ["voice AI", "conversational", "realistic", "real-time"]
+  },
+  {
+    "name": "Ideogram 2.0",
+    "tagline": "Advanced AI image generation with best-in-class text rendering inside images",
+    "category": "image",
+    "plan": "free",
+    "url": "https://ideogram.ai",
+    "tags": ["image generation", "text rendering", "design", "creative"]
+  },
+  {
+    "name": "Recraft",
+    "tagline": "AI design tool for generating scalable vector graphics, icons, and brand illustrations",
+    "category": "image",
+    "plan": "free",
+    "url": "https://www.recraft.ai",
+    "tags": ["vector graphics", "icons", "brand design", "SVG"]
+  },
+  {
+    "name": "Lovart",
+    "tagline": "AI creative agent that generates cohesive brand assets, storyboards, and visual campaigns",
+    "category": "image",
+    "plan": "free",
+    "url": "https://www.lovart.ai",
+    "tags": ["brand assets", "storyboard", "creative agency", "visual campaign"]
+  },
+  {
+    "name": "Agentic",
+    "tagline": "No-code platform for building and deploying autonomous AI agents and workflows",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://agentic.so",
+    "tags": ["AI agents", "automation", "no-code", "workflows"]
+  },
+  {
+    "name": "Phind",
+    "tagline": "AI search engine built for developers — answers technical questions with cited code examples",
+    "category": "code",
+    "plan": "free",
+    "url": "https://www.phind.com",
+    "tags": ["developer search", "code examples", "technical Q&A", "AI search"]
+  },
+  {
+    "name": "Liner",
+    "tagline": "AI-powered search and highlight tool for faster research and web annotation",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://getliner.com",
+    "tags": ["research", "highlight", "web annotation", "AI search"]
+  },
+  {
+    "name": "You.com",
+    "tagline": "AI-powered search engine that answers questions with cited sources and built-in apps",
+    "category": "productivity",
+    "plan": "free",
+    "url": "https://you.com",
+    "tags": ["AI search", "research", "citations", "chatbot"]
+  },
+  {
+    "name": "Krea AI Video",
+    "tagline": "Real-time AI video generation and enhancement with style control and motion editing",
+    "category": "video",
+    "plan": "free",
+    "url": "https://www.krea.ai",
+    "tags": ["video generation", "real-time", "style control", "enhancement"]
+  },
+  {
+    "name": "Suno v4",
+    "tagline": "Latest Suno model with higher audio fidelity, longer songs, and improved vocal clarity",
+    "category": "audio",
+    "plan": "free",
+    "url": "https://suno.com",
+    "tags": ["music generation", "AI music", "vocals", "text-to-music"]
   }
 ]
